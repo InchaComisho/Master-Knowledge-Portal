@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Wa Node Guardrail",
+  "version": "0.1.0",
+  "description": "Optional user-controlled Artificial Wisdom guardrail layer for interpreting web pages through six principles.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "sidePanel"
+  ],
+  "host_permissions": [],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Open Wa Node Guardrail"
+  },
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  }
+}
