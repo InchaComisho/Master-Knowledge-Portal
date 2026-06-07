@@ -65,6 +65,7 @@ AIガードレールとAI調律
 | ライセンス | [LICENSE.md](LICENSE.md) | CC BY-SA 4.0 ライセンス表示 |
 | 中核概念 | [docs/CORE_CONCEPTS_ja.md](docs/CORE_CONCEPTS_ja.md) | 主要概念の短い説明 |
 | 自然補完科学 | [docs/NATURAL_COMPLEMENTARY_SCIENCE_ja.md](docs/NATURAL_COMPLEMENTARY_SCIENCE_ja.md) | 三つの冷却エンジンの詳細解説 |
+| 比較シミュレーション | [docs/COMPARATIVE_SIMULATION_ja.md](docs/COMPARATIVE_SIMULATION_ja.md) | 一般的な気候介入手法とマスターの地球直接冷却構想の概念比較 |
 
 ---
 

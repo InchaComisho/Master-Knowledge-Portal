@@ -1,0 +1,24 @@
+id,name,category,primary_roles,secondary_roles,input_control,concentration_control,surface_cooling,stored_heat_pathway,circulation_restoration,integrated_restoration,future_heat_input_reduction,existing_heat_release_redistribution,thermal_inertia_response,water_cycle_restoration,ocean_heat_pathway_restoration,soil_microbe_carbon_recovery,ecosystem_regeneration,co2_reduction_carbon_removal,risk_governance_burden
+A01,Emissions Reduction,A,input_control,concentration_control,PRIMARY,secondary,,,,,3,0,0,0,0,0,0,2,2
+A02,Renewable Energy Transition,A,input_control,,PRIMARY,,,,,,3,0,0,0,0,0,0,1,1
+A03,Energy Efficiency,A,input_control,,PRIMARY,,,,,,2,0,0,0,0,0,0,1,0
+B01,Afforestation / Reforestation,B,concentration_control|circulation_restoration,stored_heat_pathway,,PRIMARY,,secondary,PRIMARY,,1,1,1,2,0,2,3,3,1
+B02,Soil Carbon Sequestration,B,concentration_control|circulation_restoration,,,PRIMARY,,,PRIMARY,,0,1,1,1,0,3,2,2,1
+B03,Biochar,B,concentration_control,circulation_restoration,,PRIMARY,,,secondary,,0,0,0,1,0,2,1,2,1
+B04,BECCS,B,concentration_control,,,PRIMARY,,,,,0,0,0,0,0,0,0,3,2
+B05,DACCS,B,concentration_control,,,PRIMARY,,,,,0,0,0,0,0,0,0,3,1
+B06,Enhanced Weathering,B,concentration_control,circulation_restoration,,PRIMARY,,,secondary,,0,0,0,0,1,1,1,2,1
+B07,Ocean Alkalinity Enhancement,B,concentration_control,,,PRIMARY,,,,,0,0,0,0,1,0,0,2,3
+B08,Ocean Fertilization,B,concentration_control|stored_heat_pathway,,,PRIMARY,,PRIMARY,,,0,1,1,0,2,0,1,1,3
+C01,Stratospheric Aerosol Injection,C,input_control,,PRIMARY,,,,,,3,0,0,0,0,0,0,0,3
+C02,Marine Cloud Brightening,C,input_control,,PRIMARY,,,,,,2,0,0,0,0,0,0,0,2
+C03,Cirrus Cloud Thinning,C,input_control,,PRIMARY,,,,,,1,0,0,0,0,0,0,0,2
+C04,Surface Albedo Enhancement,C,input_control|surface_cooling,,PRIMARY,,PRIMARY,,,,2,0,0,0,0,0,0,0,1
+C05,Cool Roofs / Urban Albedo,C,surface_cooling,input_control,secondary,,PRIMARY,,,,1,0,1,0,0,0,0,0,0
+C06,Radiative Cooling Materials,C,surface_cooling,,,,PRIMARY,,,,0,1,1,0,0,0,0,0,0
+D01,Land-Rain Engine,D,circulation_restoration|stored_heat_pathway,concentration_control,,secondary,,PRIMARY,PRIMARY,,0,2,2,3,1,2,3,2,1
+D02,Ocean Vertical Circulation / Ocean Breathing System,D,stored_heat_pathway|circulation_restoration,,,,,PRIMARY,PRIMARY,,0,3,3,1,3,0,2,2,2
+D03,Soil-Microbe / Humus Engine,D,circulation_restoration|concentration_control,stored_heat_pathway,,PRIMARY,,secondary,PRIMARY,,0,1,2,2,0,3,3,3,1
+D04,Urban Water Circulation and Mist Cooling,D,surface_cooling|circulation_restoration,stored_heat_pathway,,,PRIMARY,secondary,PRIMARY,,0,2,2,2,0,1,1,0,0
+D05,Integrated Direct Planetary Cooling,D,stored_heat_pathway|circulation_restoration,concentration_control,,secondary,,PRIMARY,PRIMARY,,1,3,3,3,3,3,3,2,2
+D06,Integrated Natural Complementary Science,D,integrated_restoration,stored_heat_pathway|circulation_restoration|concentration_control,,secondary,,secondary,secondary,PRIMARY,1,3,3,3,3,3,3,2,1

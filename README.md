@@ -65,6 +65,7 @@ This roadmap shows how Master’s public knowledge framework connects philosophy
 | License | [LICENSE.md](LICENSE.md) | CC BY-SA 4.0 license notice |
 | Core concepts | [docs/CORE_CONCEPTS.md](docs/CORE_CONCEPTS.md) | Short explanation of the main concepts |
 | Natural Complementary Science | [docs/NATURAL_COMPLEMENTARY_SCIENCE.md](docs/NATURAL_COMPLEMENTARY_SCIENCE.md) | Detailed explanation of the three cooling engines |
+| Comparative simulation | [docs/COMPARATIVE_SIMULATION.md](docs/COMPARATIVE_SIMULATION.md) | Conceptual comparison between mainstream climate interventions and Master's Direct Planetary Cooling framework |
 
 ---
 
