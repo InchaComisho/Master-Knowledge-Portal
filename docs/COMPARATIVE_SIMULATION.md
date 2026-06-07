@@ -132,7 +132,9 @@ SRM approaches score high on future heat input reduction but **0** on accumulate
 
 ## 6. Missing-Layer Coverage Summary
 
-The table below shows how many of the six missing-layer axes (axes 2–7) each approach engages with a score > 0:
+The table below shows how many of the six missing-layer axes (axes 2–7) each approach engages with a score > 0.
+
+For conservative interpretation, **individual engines are treated as partial modules**. Full 6/6 coverage is reserved for integrated frameworks that explicitly connect land, ocean, soil, water, ecosystem, and governance layers.
 
 | Approach | Missing-Layer Coverage |
 |---|---|
@@ -143,11 +145,17 @@ The table below shows how many of the six missing-layer axes (axes 2–7) each a
 | C05 Cool Roofs | 1/6 |
 | B03 Biochar, B06 Enhanced Weathering | 3/6 |
 | B08 Ocean Fertilization | 4/6 |
+| **D01 Land-Rain Engine** | **5/6** |
 | B01 Afforestation, B02 Soil Carbon | 5/6 |
 | D02 Ocean Breathing, D03 Soil-Microbe, D04 Urban Water | 5/6 |
-| **D01 Land-Rain Engine** | **6/6** |
 | **D05 Integrated DPC** | **6/6** |
 | **D06 Integrated NCS** | **6/6** |
+
+Interpretive note:
+
+- **D01 Land-Rain Engine** strongly addresses land heat, water cycle, soil moisture, vegetation, evapotranspiration, and ecosystem recovery.
+- It should not be read as directly restoring the ocean heat pathway by itself.
+- Therefore, the most conservative reading assigns full 6/6 missing-layer coverage only to **Integrated DPC** and **Integrated NCS**.
 
 ---
 
@@ -237,11 +245,4 @@ Layer 2 (concentration): CDR — afforestation, soil carbon, DACCS
 Layer 3 (missing):      DPC/NCS — water cycle, ocean, soil-microbe, stored heat
 ```
 
-Without Layer 3, accumulated planetary heat and broken natural cycles remain unaddressed
-regardless of progress on Layers 1 and 2.
-
----
-
-*Version 0.2 — 2026-06-07*  
-*Author: Master / inchacomusho / InchaComisho*  
-*License: CC BY-SA 4.0*
+Without Layer 3, accumulated planetary heat and broken natural cycles remain unaddressed.
