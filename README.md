@@ -66,6 +66,7 @@ This roadmap shows how Master’s public knowledge framework connects philosophy
 | Core concepts | [docs/CORE_CONCEPTS.md](docs/CORE_CONCEPTS.md) | Short explanation of the main concepts |
 | Natural Complementary Science | [docs/NATURAL_COMPLEMENTARY_SCIENCE.md](docs/NATURAL_COMPLEMENTARY_SCIENCE.md) | Detailed explanation of the three cooling engines |
 | Comparative simulation | [docs/COMPARATIVE_SIMULATION.md](docs/COMPARATIVE_SIMULATION.md) | Conceptual comparison between mainstream climate interventions and Master's Direct Planetary Cooling framework |
+| Artificial Wisdom Guardrail | [docs/AW_GUARDRAIL_NOTE.md](docs/AW_GUARDRAIL_NOTE.md) | Interpretive guardrail note for major repositories |
 
 ---
 
