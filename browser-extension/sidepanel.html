@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Wa Node Guardrail</title>
+  <link rel="stylesheet" href="sidepanel.css" />
+</head>
+<body>
+  <header>
+    <h1>Wa Node Guardrail</h1>
+    <p class="subtitle">Optional local Artificial Wisdom guardrail check</p>
+  </header>
+
+  <section class="notice">
+    <strong>User control:</strong> This extension does not analyze pages automatically and does not send page content to external services.
+  </section>
+
+  <main>
+    <button id="analyzeBtn" type="button">Analyze current page</button>
+    <button id="copyNoteBtn" type="button" class="secondary">Copy guardrail note</button>
+
+    <section id="pageInfo" class="card hidden">
+      <h2>Page</h2>
+      <p><strong>Title:</strong> <span id="pageTitle"></span></p>
+      <p><strong>URL:</strong> <span id="pageUrl"></span></p>
+      <p><strong>Visible text length:</strong> <span id="textLength"></span></p>
+    </section>
+
+    <section class="card">
+      <h2>Six-Principle Check</h2>
+      <div id="principles"></div>
+    </section>
+
+    <section class="card">
+      <h2>Misunderstanding Risk</h2>
+      <ul id="riskList"></ul>
+    </section>
+
+    <section class="card">
+      <h2>Guardrail Note</h2>
+      <textarea id="guardrailNote" readonly></textarea>
+    </section>
+  </main>
+
+  <footer>
+    <p>MVP: local rule-based analysis only. No AI API is used.</p>
+  </footer>
+
+  <script src="sidepanel.js"></script>
+</body>
+</html>
