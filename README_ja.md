@@ -64,6 +64,7 @@ AIガードレールとAI調律
 | 英語中核フレーム | [CORE_FRAMEWORKS.md](CORE_FRAMEWORKS.md) | 英語版中核フレームワーク案内 |
 | ライセンス | [LICENSE.md](LICENSE.md) | CC BY-SA 4.0 ライセンス表示 |
 | 中核概念 | [docs/CORE_CONCEPTS_ja.md](docs/CORE_CONCEPTS_ja.md) | 主要概念の短い説明 |
+| 自然補完科学 | [docs/NATURAL_COMPLEMENTARY_SCIENCE_ja.md](docs/NATURAL_COMPLEMENTARY_SCIENCE_ja.md) | 三つの冷却エンジンの詳細解説 |
 
 ---
 
