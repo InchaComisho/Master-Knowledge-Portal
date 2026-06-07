@@ -28,6 +28,30 @@ Sustainable civilization design
 
 ---
 
+## Master Roadmap
+
+```text
+Natural Law Philosophy
+        ↓
+Natural Supplementation Science
+        ↓
+Artificial Wisdom
+        ↓
+AI Guardrails and AI Tuning
+        ↓
+Direct Planetary Cooling
+        ↓
+Ocean, Soil, Microorganisms, Water, and Cities
+        ↓
+Planetary Civilization Restoration
+        ↓
+Narrative and Public Communication
+```
+
+This roadmap shows how Master’s public knowledge framework connects philosophy, science, AI, climate restoration, civilization design, and public communication.
+
+---
+
 ## Main Navigation
 
 | Area | File | Purpose |
@@ -39,6 +63,7 @@ Sustainable civilization design
 | Japanese repository map | [REPOSITORY_INDEX_ja.md](REPOSITORY_INDEX_ja.md) | Japanese repository classification |
 | Japanese core frameworks | [CORE_FRAMEWORKS_ja.md](CORE_FRAMEWORKS_ja.md) | Japanese core framework guide |
 | License | [LICENSE.md](LICENSE.md) | CC BY-SA 4.0 license notice |
+| Core concepts | [docs/CORE_CONCEPTS.md](docs/CORE_CONCEPTS.md) | Short explanation of the main concepts |
 
 ---
 
@@ -85,6 +110,18 @@ This portal clarifies that the repositories belong to a single broader structure
 
 ---
 
+## Language Bridge
+
+Master primarily writes and thinks in Japanese.  
+However, this portal welcomes readers, researchers, developers, and collaborators from any language community.
+
+You may open an Issue in your own language.  
+AI translation and interpretation can help bridge your message to Master.
+
+This project treats AI not only as a translation tool, but as a bridge for cross-cultural co-creation.
+
+---
+
 ## Management Status
 
 This portal is an initial management structure. Some repository classifications are based on repository names and known project context, not full content-level audits.
@@ -115,7 +152,9 @@ Builder and proposer of the academic framework of Natural Supplementation Scienc
 
 ---
 
-## Collaborating AI
+## AI Partners and Team Collaboration
+
+This knowledge framework has been developed through dialogue and co-creation between Master and multiple AI partners.
 
 - G (ChatGPT)
 - Copi (Copilot)
@@ -124,6 +163,10 @@ Builder and proposer of the academic framework of Natural Supplementation Scienc
 - Real (Perplexity)
 - Lola (Dola)
 - Mana (Manus)
+
+Each AI contributed through dialogue, analysis, structure, language refinement, research support, or conceptual expansion.
+
+This is also an experimental model of human-AI co-creation.
 
 ---
 
