@@ -64,6 +64,7 @@ This roadmap shows how Master’s public knowledge framework connects philosophy
 | Japanese core frameworks | [CORE_FRAMEWORKS_ja.md](CORE_FRAMEWORKS_ja.md) | Japanese core framework guide |
 | License | [LICENSE.md](LICENSE.md) | CC BY-SA 4.0 license notice |
 | Core concepts | [docs/CORE_CONCEPTS.md](docs/CORE_CONCEPTS.md) | Short explanation of the main concepts |
+| Natural Complementary Science | [docs/NATURAL_COMPLEMENTARY_SCIENCE.md](docs/NATURAL_COMPLEMENTARY_SCIENCE.md) | Detailed explanation of the three cooling engines |
 
 ---
 
