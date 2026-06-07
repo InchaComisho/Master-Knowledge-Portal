@@ -67,6 +67,7 @@ This roadmap shows how Master’s public knowledge framework connects philosophy
 | Natural Complementary Science | [docs/NATURAL_COMPLEMENTARY_SCIENCE.md](docs/NATURAL_COMPLEMENTARY_SCIENCE.md) | Detailed explanation of the three cooling engines |
 | Comparative simulation | [docs/COMPARATIVE_SIMULATION.md](docs/COMPARATIVE_SIMULATION.md) | Conceptual comparison between mainstream climate interventions and Master's Direct Planetary Cooling framework |
 | Artificial Wisdom Guardrail | [docs/AW_GUARDRAIL_NOTE.md](docs/AW_GUARDRAIL_NOTE.md) | Interpretive guardrail note for major repositories |
+| Wa Node Browser Extension | [browser-extension/README.md](browser-extension/README.md) | Optional local browser extension MVP; user-controlled and not auto-installed |
 
 ---
 
