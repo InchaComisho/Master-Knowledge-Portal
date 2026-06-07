@@ -16,7 +16,7 @@ C03,Cirrus Cloud Thinning,C,input_control,,PRIMARY,,,,,,1,0,0,0,0,0,0,0,2
 C04,Surface Albedo Enhancement,C,input_control|surface_cooling,,PRIMARY,,PRIMARY,,,,2,0,0,0,0,0,0,0,1
 C05,Cool Roofs / Urban Albedo,C,surface_cooling,input_control,secondary,,PRIMARY,,,,1,0,1,0,0,0,0,0,0
 C06,Radiative Cooling Materials,C,surface_cooling,,,,PRIMARY,,,,0,1,1,0,0,0,0,0,0
-D01,Land-Rain Engine,D,circulation_restoration|stored_heat_pathway,concentration_control,,secondary,,PRIMARY,PRIMARY,,0,2,2,3,1,2,3,2,1
+D01,Land-Rain Engine,D,circulation_restoration|stored_heat_pathway,concentration_control,,secondary,,PRIMARY,PRIMARY,,0,2,2,3,0,2,3,2,1
 D02,Ocean Vertical Circulation / Ocean Breathing System,D,stored_heat_pathway|circulation_restoration,,,,,PRIMARY,PRIMARY,,0,3,3,1,3,0,2,2,2
 D03,Soil-Microbe / Humus Engine,D,circulation_restoration|concentration_control,stored_heat_pathway,,PRIMARY,,secondary,PRIMARY,,0,1,2,2,0,3,3,3,1
 D04,Urban Water Circulation and Mist Cooling,D,surface_cooling|circulation_restoration,stored_heat_pathway,,,PRIMARY,secondary,PRIMARY,,0,2,2,2,0,1,1,0,0
