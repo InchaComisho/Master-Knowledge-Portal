@@ -545,14 +545,14 @@
         "existing_heat_release_redistribution": 2,
         "thermal_inertia_response": 2,
         "water_cycle_restoration": 3,
-        "ocean_heat_pathway_restoration": 1,
+        "ocean_heat_pathway_restoration": 0,
         "soil_microbe_carbon_recovery": 2,
         "ecosystem_regeneration": 3,
         "co2_reduction_carbon_removal": 2,
         "risk_governance_burden": 1
       },
       "notes": "Builds on existing restoration ecology and watershed management. The novel contribution is treating the full rainfall-soil-vegetation-cloud cycle as a single cooling engine.",
-      "missing_layer_gap": "Limited ocean heat engagement. Land-focused. Requires large-scale coordination across land-use systems."
+      "missing_layer_gap": "Does not directly restore the ocean heat pathway by itself. Land-focused. Requires large-scale coordination across land-use systems."
     },
     {
       "id": "D02",

@@ -322,10 +322,10 @@
 
 | 将来の熱入力削減 | 蓄積熱の放散・再分配 | 熱慣性への対応 | 水循環の回復 | 海洋熱経路の回復 | 土壌・微生物・炭素固定の回復 | 生態系再生 | CO2削減・炭素除去 |
 |---|---|---|---|---|---|---|---|
-| — | 中 | 中 | 強 | 弱 | 中 | 強 | 中 |
+| — | 中 | 中 | 強 | — | 中 | 強 | 中 |
 
 **リスク・ガバナンス負荷：** 弱 (1/3)  
-**ギャップ（対応していない問題）：** Limited ocean heat engagement. Land-focused. Requires large-scale coordination across land-use systems.
+**ギャップ（対応していない問題）：** Does not directly restore the ocean heat pathway by itself. Land-focused. Requires large-scale coordination across land-use systems.
 
 ---
 

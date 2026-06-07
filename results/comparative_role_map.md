@@ -322,10 +322,10 @@
 
 | Future Heat Input Reduction | Existing Heat Release / Redistribution | Thermal Inertia Response | Water Cycle Restoration | Ocean Heat Pathway Restoration | Soil-Microbe-Carbon Recovery | Ecosystem Regeneration | CO2 Reduction / Carbon Removal |
 |---|---|---|---|---|---|---|---|
-| — | ◎ | ◎ | ★ | ○ | ◎ | ★ | ◎ |
+| — | ◎ | ◎ | ★ | — | ◎ | ★ | ◎ |
 
 **Risk / Governance Burden:** ○ (1/3)  
-**Gap (what this approach does not address):** Limited ocean heat engagement. Land-focused. Requires large-scale coordination across land-use systems.
+**Gap (what this approach does not address):** Does not directly restore the ocean heat pathway by itself. Land-focused. Requires large-scale coordination across land-use systems.
 
 ---
 
