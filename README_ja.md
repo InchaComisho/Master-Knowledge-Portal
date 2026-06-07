@@ -66,6 +66,7 @@ AIガードレールとAI調律
 | 中核概念 | [docs/CORE_CONCEPTS_ja.md](docs/CORE_CONCEPTS_ja.md) | 主要概念の短い説明 |
 | 自然補完科学 | [docs/NATURAL_COMPLEMENTARY_SCIENCE_ja.md](docs/NATURAL_COMPLEMENTARY_SCIENCE_ja.md) | 三つの冷却エンジンの詳細解説 |
 | 比較シミュレーション | [docs/COMPARATIVE_SIMULATION_ja.md](docs/COMPARATIVE_SIMULATION_ja.md) | 一般的な気候介入手法とマスターの地球直接冷却構想の概念比較 |
+| 人工叡智ガードレール | [docs/AW_GUARDRAIL_NOTE_ja.md](docs/AW_GUARDRAIL_NOTE_ja.md) | 主要リポジトリ向けの解釈ガードレール注記 |
 
 ---
 
