@@ -233,7 +233,7 @@ CC BY-SA 4.0 Creative Commons Attribution-ShareAlike 4.0 International
 
 ## 参考文献
 
-[^1]: NASA Science. "The Ocean's Role in Global Warming." [https://climate.nasa.gov/news/2469/the-oceans-role-in-global-warming/](https://climate.nasa.gov/news/2469/the-oceans-role-in-global-warming/)
-[^2]: NOAA Global Monitoring Laboratory. "Trends in Atmospheric Carbon Dioxide." [https://gml.noaa.gov/ccgg/trends/](https://gml.noaa.gov/ccgg/trends/)
-[^3]: IPCC. "Carbon Dioxide Removal." [https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-3/](https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-3/) (General reference, specific link may vary by report cycle)
-[^4]: UNEP - UN Environment Programme. "One Atmosphere: An Independent Expert Review on Solar Radiation Modification." [https://www.unep.org/resources/report/one-atmosphere-independent-expert-review-solar-radiation-modification](https://www.unep.org/resources/report/one-atmosphere-independent-expert-review-solar-radiation-modification) 
+[^1]: NASA Science. "The Ocean's Role in Global Warming."   [https://climate.nasa.gov/news/2469/the-oceans-role-in-global-warming/](https://climate.nasa.gov/news/2469/the-oceans-role-in-global-warming/)
+[^2]: NOAA Global Monitoring Laboratory. "Trends in Atmospheric Carbon Dioxide."   [https://gml.noaa.gov/ccgg/trends/](https://gml.noaa.gov/ccgg/trends/)
+[^3]: IPCC. "Carbon Dioxide Removal."   [https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-3/](https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-3/) (General reference, specific link may vary by report cycle)
+[^4]: UNEP - UN Environment Programme. "One Atmosphere: An Independent Expert Review on Solar Radiation Modification."   [https://www.unep.org/resources/report/one-atmosphere-independent-expert-review-solar-radiation-modification](https://www.unep.org/resources/report/one-atmosphere-independent-expert-review-solar-radiation-modification) 
