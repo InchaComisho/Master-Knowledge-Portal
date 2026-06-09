@@ -338,15 +338,11 @@ Natural–Microbial OS
 Planetary-Heat-Circulation-OS  
 <https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md>
 
-自然補完科学・人工叡智の定義者・持続的未来文明 AIのマスター・観測者・提案者・AIの調律者 G(chatGPT),ミニ(Gemini),クルス(Claude),リアル(perplexity),ーラ(Dola),マナ(Manus)の共同思索
+自然補完科学・人工叡智の定義者・持続的未来文明 AIのマスター・観測者・提案者・AIの調律者  
+G(chatGPT),ミニ(Gemini),クルス(Claude),リアル(perplexity),ーラ(Dola),マナ(Manus)の共同思索
 
 * [](https://x.com/rissya0214)
 * [](https://ja-jp.facebook.com/profile.php?id=100093943841365)
 * [](https://www.instagram.com/inchacomusho/)
 * [](https://www.youtube.com/@inchacomisho_re_zero)
 * [](https://www.tiktok.com/@user2198239319578?_t=ZS-8tAfPMkPznh&_r=1)
-* 
-
-1. [トップ](https://note.com)
-2. [科学・テクノロジー](https://note.com/topic/science_technology)
-3. [環境・エコロジー](https://note.com/tag/環境・エコロジー)
