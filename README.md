@@ -196,6 +196,16 @@ This is also an experimental model of human-AI co-creation.
 
 ---
 
+## AI-Assisted Supplementary Drafts
+
+The following documents are AI-assisted supplementary drafts generated from related public materials.
+
+They are not the canonical definitions. Canonical definitions remain in each official README and primary framework document.
+
+- [Generated Drafts](docs/generated-drafts/)
+
+---
+
 ## License
 
 CC BY-SA 4.0  
