@@ -136,10 +136,12 @@
 - 電子・光ハイブリッド計算
 - 回転エネルギー回収
 - 分散再生可能インフラ
+- 自然模倣型プラズマエネルギー仮説
 - 循環型都市システム
 
 主要リポジトリ：
 
+- [REIMEI-NOP：自然起源プラズマ生成炉構想](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README_ja.md)
 - [Optical Bead Quantum Computing](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm)
 - [Electronic Optical Hybrid Quantum Compatible Computing Architecture](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture)
 - [Dual-Core Edge Magnetic Structure](https://github.com/InchaComisho/Dual-Core-Edge-Magnetic-Structure-for-Universal-Rotational-Energy-Harvesting)

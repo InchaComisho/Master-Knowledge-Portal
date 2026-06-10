@@ -131,6 +131,7 @@
 ## 06. 計算技術・エネルギー・インフラ・物語・管理
 
 - [Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities)
+- [REIMEI-NOP：自然起源プラズマ生成炉構想](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README_ja.md)
 - [Distributed-Renewable-Infrastructure-vs.-Fusion-Monocentrism](https://github.com/InchaComisho/Distributed-Renewable-Infrastructure-vs.-Fusion-Monocentrism)
 - [Dual-Core-Edge-Magnetic-Structure-for-Universal-Rotational-Energy-Harvesting](https://github.com/InchaComisho/Dual-Core-Edge-Magnetic-Structure-for-Universal-Rotational-Energy-Harvesting)
 - [Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm)

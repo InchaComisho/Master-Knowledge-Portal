@@ -136,10 +136,12 @@ Focus:
 - electronic-optical hybrid computing
 - rotational energy harvesting
 - distributed renewable infrastructure
+- nature-inspired plasma energy hypotheses
 - circular city systems
 
 Main repositories:
 
+- [REIMEI-NOP: Natural-Origin Plasma Generator](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README.md)
 - [Optical Bead Quantum Computing](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm)
 - [Electronic Optical Hybrid Quantum Compatible Computing Architecture](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture)
 - [Dual-Core Edge Magnetic Structure](https://github.com/InchaComisho/Dual-Core-Edge-Magnetic-Structure-for-Universal-Rotational-Energy-Harvesting)

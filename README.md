@@ -165,6 +165,17 @@ Future work:
 
 ---
 
+## Related: REIMEI-NOP and Nature-Inspired Plasma Energy Hypothesis
+
+- [REIMEI-NOP: Natural-Origin Plasma Generator](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README.md) — An open hypothesis for a nature-inspired plasma generation concept based on the pre-discharge processes of lightning, including mist friction, spiral flow, charge separation, compression, discharge, plasma-like behavior, and possible auxiliary energy recovery. This is not a proven power generator, but an open concept for observation, verification, and future research.
+
+- [Japanese version: REIMEI-NOP：自然起源プラズマ生成炉構想](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README_ja.md)
+
+- [NOTE article: 雷の原理を模倣する自然起源プラズマ炉構想](https://note.com/inchacomusho/n/nf62145209118)
+- [Original open concept: REIMEI-NOP 技術設計書兼文明宣言](https://note.com/inchacomusho/n/n79be86605430)
+
+---
+
 ## Author
 
 **Master / inchacomusho / InchaComisho**
@@ -259,7 +270,7 @@ See: [LICENSE.md](LICENSE.md)
 
 ## Keywords
 
-Master Knowledge Portal, InchaComisho, inchacomusho, Natural Supplementation Science, Direct Planetary Cooling, Earth-cycle regeneration, Artificial Wisdom, AI tuning, Natural Law philosophy, sustainable civilization, ocean circulation, deep-sea aeration, soil regeneration, microorganisms, humus, carbon fixation, climate causality, planetary civilization restoration, human-wildlife conflict, ecological displacement, habitat degradation, forest degradation, biodiversity, forest restoration, satoyama restoration, animal coexistence, abandoned forest, abandoned sugi plantation, Japanese cedar plantation, forest liability, regenerative forest assets, monoculture forest, sawdust, wood chips, mushroom substrate
+Master Knowledge Portal, InchaComisho, inchacomusho, Natural Supplementation Science, Direct Planetary Cooling, Earth-cycle regeneration, Artificial Wisdom, AI tuning, Natural Law philosophy, sustainable civilization, ocean circulation, deep-sea aeration, soil regeneration, microorganisms, humus, carbon fixation, climate causality, planetary civilization restoration, human-wildlife conflict, ecological displacement, habitat degradation, forest degradation, biodiversity, forest restoration, satoyama restoration, animal coexistence, abandoned forest, abandoned sugi plantation, Japanese cedar plantation, forest liability, regenerative forest assets, monoculture forest, sawdust, wood chips, mushroom substrate, REIMEI-NOP, Natural-Origin Plasma Generator, REIMEI-CIVILIZATION, nature-inspired engineering, lightning-inspired reactor, plasma generation, mist friction, spiral flow, charge separation, micro-discharge, auxiliary energy recovery, AI android energy core, distributed energy, open hypothesis, open concept
 
 ---
 

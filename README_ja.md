@@ -165,6 +165,17 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 
 ---
 
+## 関連：REIMEI-NOP・自然起源プラズマ生成炉・自然模倣エネルギー仮説
+
+- [REIMEI-NOP：自然起源プラズマ生成炉構想](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README_ja.md) — 雷が発生する前段階にある水滴・気流・摩擦・螺旋流・帯電・電荷分離・圧縮・放電・プラズマ化の流れを、小型構造体内で模倣できる可能性を検討する未検証のオープン仮説。AIアンドロイド用小型エネルギーコア、自然模倣技術、自然補完科学、REIMEI-CIVILIZATION に接続する構想。
+
+- [English version: REIMEI-NOP: Natural-Origin Plasma Generator](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README.md)
+
+- [NOTE記事：雷の原理を模倣する自然起源プラズマ炉構想](https://note.com/inchacomusho/n/nf62145209118)
+- [元構想記事：REIMEI-NOP 技術設計書兼文明宣言](https://note.com/inchacomusho/n/n79be86605430)
+
+---
+
 ## 著者
 
 **マスター / inchacomusho / InchaComisho**
@@ -260,7 +271,7 @@ Creative Commons Attribution-ShareAlike 4.0 International
 
 ## キーワード
 
-マスター知識体系ポータル、InchaComisho、inchacomusho、自然補完科学、地球直接冷却、地球循環再生、人工叡智、AI調律、自然法則思想、持続可能な文明、海洋循環、深海空気送気、土壌再生、微生物、腐葉土、炭素固定、温暖化因果構造、惑星文明再生、獣害、人害、害獣ではない、熊出没、鹿被害、猪被害、森林荒廃、里山再生、生物多様性、人間と野生動物の共存、放置山林、放置杉林、杉林、山林負債、山林資産化、森林再生、おがくず、木材チップ、キノコ、自然循環
+マスター知識体系ポータル、InchaComisho、inchacomusho、自然補完科学、地球直接冷却、地球循環再生、人工叡智、AI調律、自然法則思想、持続可能な文明、海洋循環、深海空気送気、土壌再生、微生物、腐葉土、炭素固定、温暖化因果構造、惑星文明再生、獣害、人害、害獣ではない、熊出没、鹿被害、猪被害、森林荒廃、里山再生、生物多様性、人間と野生動物の共存、放置山林、放置杉林、杉林、山林負債、山林資産化、森林再生、おがくず、木材チップ、キノコ、自然循環、REIMEI-NOP、自然起源プラズマ生成炉、雷の原理、自然模倣、プラズマ、ミスト摩擦、螺旋流、電荷分離、放電、補助発電、小型エネルギーコア、AIアンドロイド、黎明文明、オープン仮説、オープン発明
 
 ---
 

@@ -131,6 +131,7 @@ It is an **initial repository-name-based classification**, not a final content-l
 ## 06. Computing, Energy, Infrastructure, Narrative, and Admin
 
 - [Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities)
+- [REIMEI-NOP-Natural-Origin-Plasma-Generator](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README.md)
 - [Distributed-Renewable-Infrastructure-vs.-Fusion-Monocentrism](https://github.com/InchaComisho/Distributed-Renewable-Infrastructure-vs.-Fusion-Monocentrism)
 - [Dual-Core-Edge-Magnetic-Structure-for-Universal-Rotational-Energy-Harvesting](https://github.com/InchaComisho/Dual-Core-Edge-Magnetic-Structure-for-Universal-Rotational-Energy-Harvesting)
 - [Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm)
