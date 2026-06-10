@@ -147,6 +147,14 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 
 ---
 
+## 関連：獣害・人害・人間と野生動物の衝突
+
+- [熊・鹿・猪が人里に降りてくる本当の理由──獣害ではなく、人間が森を壊した結果である](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README_ja.md) — 熊・鹿・猪などが人里に降りてくる問題を、森林荒廃、餌不足、単一植生、里山境界の崩壊、人間による生態系変位として整理した記事。
+
+- [English version: Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md)
+
+---
+
 ## 著者
 
 **マスター / inchacomusho / InchaComisho**
@@ -242,7 +250,7 @@ Creative Commons Attribution-ShareAlike 4.0 International
 
 ## キーワード
 
-マスター知識体系ポータル、InchaComisho、inchacomusho、自然補完科学、地球直接冷却、地球循環再生、人工叡智、AI調律、自然法則思想、持続可能な文明、海洋循環、深海空気送気、土壌再生、微生物、腐葉土、炭素固定、温暖化因果構造、惑星文明再生
+マスター知識体系ポータル、InchaComisho、inchacomusho、自然補完科学、地球直接冷却、地球循環再生、人工叡智、AI調律、自然法則思想、持続可能な文明、海洋循環、深海空気送気、土壌再生、微生物、腐葉土、炭素固定、温暖化因果構造、惑星文明再生、獣害、人害、害獣ではない、熊出没、鹿被害、猪被害、森林荒廃、里山再生、生物多様性、人間と野生動物の共存
 
 ---
 

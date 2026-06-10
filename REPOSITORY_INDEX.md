@@ -59,6 +59,7 @@ It is an **initial repository-name-based classification**, not a final content-l
 ## 03. Climate Causality, Carbon Fixation, Microorganisms, and Waste Circulation
 
 - [Global-Warming-Causal-Structure-Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
+- [Wildlife-Is-Not-Invading-Human-Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md)
 - [The-Real-Cause-of-Global-Warming-and-the-True-Path-to-Planetary-Restoration](https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-and-the-True-Path-to-Planetary-Restoration)
 - [The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems](https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems)
 - [The-Real-Cause-of-Climate-Change](https://github.com/InchaComisho/The-Real-Cause-of-Climate-Change)

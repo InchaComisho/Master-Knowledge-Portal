@@ -31,12 +31,15 @@
 - 炭素固定崩壊
 - 海洋熱停滞
 - 土壌・微生物劣化
+- 森林荒廃と生態系変位
+- 人間と野生動物の衝突
 - CO2単独視点の限界
 - 脱炭素単独論の限界
 
 主要ポータル：
 
 - [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
+- [熊・鹿・猪が人里に降りてくる本当の理由──獣害ではなく、人間が森を壊した結果である](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README_ja.md)
 - [CO2 Is Not The Only Villain](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)
 
 ---

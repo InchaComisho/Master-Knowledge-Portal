@@ -147,6 +147,14 @@ Future work:
 
 ---
 
+## Related: Human-Wildlife Conflict and Ecological Displacement
+
+- [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md) — Explains human-wildlife conflict as a result of habitat degradation, forest impoverishment, food scarcity, broken ecological boundaries, and human-caused ecological displacement.
+
+- [Japanese version: 熊・鹿・猪が人里に降りてくる本当の理由](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README_ja.md)
+
+---
+
 ## Author
 
 **Master / inchacomusho / InchaComisho**
@@ -241,7 +249,7 @@ See: [LICENSE.md](LICENSE.md)
 
 ## Keywords
 
-Master Knowledge Portal, InchaComisho, inchacomusho, Natural Supplementation Science, Direct Planetary Cooling, Earth-cycle regeneration, Artificial Wisdom, AI tuning, Natural Law philosophy, sustainable civilization, ocean circulation, deep-sea aeration, soil regeneration, microorganisms, humus, carbon fixation, climate causality, planetary civilization restoration
+Master Knowledge Portal, InchaComisho, inchacomusho, Natural Supplementation Science, Direct Planetary Cooling, Earth-cycle regeneration, Artificial Wisdom, AI tuning, Natural Law philosophy, sustainable civilization, ocean circulation, deep-sea aeration, soil regeneration, microorganisms, humus, carbon fixation, climate causality, planetary civilization restoration, human-wildlife conflict, ecological displacement, habitat degradation, forest degradation, biodiversity, forest restoration, satoyama restoration, animal coexistence
 
 ---
 

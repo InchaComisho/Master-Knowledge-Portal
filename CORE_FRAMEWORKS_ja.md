@@ -70,10 +70,11 @@
 
 - [Deep Sea Aeration](https://github.com/InchaComisho/Deep-Sea-Aeration)
 - [Natural Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS)
+- [熊・鹿・猪が人里に降りてくる本当の理由──獣害ではなく、人間が森を壊した結果である](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README_ja.md)
 - [Urban Civilization OS](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities)
 - [Desert Regeneration and Food Production Through Organic Matter Circulation](https://github.com/InchaComisho/Desert-Regeneration-and-Food-Production-Through-Organic-Matter-Circulation)
 
-役割：海洋呼吸、土壌炭素、微生物循環、循環型都市、食料生産を伴う再生景観のための技術・生態モジュール。
+役割：海洋呼吸、土壌炭素、微生物循環、生態系境界、循環型都市、食料生産を伴う再生景観のための技術・生態モジュール。
 
 ---
 

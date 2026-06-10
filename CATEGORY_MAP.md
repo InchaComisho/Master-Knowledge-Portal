@@ -31,12 +31,15 @@ Focus:
 - carbon fixation collapse
 - ocean heat stagnation
 - soil and microbial degradation
+- habitat degradation and ecological displacement
+- human-wildlife conflict
 - limits of CO2-only framing
 - limits of decarbonization-only framing
 
 Main portals:
 
 - [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
+- [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md)
 - [CO2 Is Not The Only Villain](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)
 
 ---
