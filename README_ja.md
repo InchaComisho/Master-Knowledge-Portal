@@ -155,6 +155,16 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 
 ---
 
+## 関連：放置杉林・山林資産化・森林再生
+
+- [放置杉林を負債から循環資産へ──果樹・山菜・キノコ・腐葉土で森を再生する方法](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README_ja.md) — 放置杉林や管理されない人工林を、単なる山林負債ではなく、果樹・山菜・キノコ・腐葉土・おがくず・木材チップ・土壌再生・生物多様性・獣害対策・地域資源を生む循環資産として再設計する構想。
+
+- [English version: From Abandoned Sugi Plantations to Regenerative Forest Assets](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md)
+
+- [NOTE原文：放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
+
+---
+
 ## 著者
 
 **マスター / inchacomusho / InchaComisho**
@@ -250,7 +260,7 @@ Creative Commons Attribution-ShareAlike 4.0 International
 
 ## キーワード
 
-マスター知識体系ポータル、InchaComisho、inchacomusho、自然補完科学、地球直接冷却、地球循環再生、人工叡智、AI調律、自然法則思想、持続可能な文明、海洋循環、深海空気送気、土壌再生、微生物、腐葉土、炭素固定、温暖化因果構造、惑星文明再生、獣害、人害、害獣ではない、熊出没、鹿被害、猪被害、森林荒廃、里山再生、生物多様性、人間と野生動物の共存
+マスター知識体系ポータル、InchaComisho、inchacomusho、自然補完科学、地球直接冷却、地球循環再生、人工叡智、AI調律、自然法則思想、持続可能な文明、海洋循環、深海空気送気、土壌再生、微生物、腐葉土、炭素固定、温暖化因果構造、惑星文明再生、獣害、人害、害獣ではない、熊出没、鹿被害、猪被害、森林荒廃、里山再生、生物多様性、人間と野生動物の共存、放置山林、放置杉林、杉林、山林負債、山林資産化、森林再生、おがくず、木材チップ、キノコ、自然循環
 
 ---
 

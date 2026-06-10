@@ -70,11 +70,12 @@ Role: reframes global warming as not only a CO2 concentration problem, but also 
 
 - [Deep Sea Aeration](https://github.com/InchaComisho/Deep-Sea-Aeration)
 - [Natural Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS)
+- [From Abandoned Sugi Plantations to Regenerative Forest Assets](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md)
 - [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md)
 - [Urban Civilization OS](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities)
 - [Desert Regeneration and Food Production Through Organic Matter Circulation](https://github.com/InchaComisho/Desert-Regeneration-and-Food-Production-Through-Organic-Matter-Circulation)
 
-Role: technical and ecological modules for restoring ocean breathing, soil carbon, microbial circulation, ecological boundaries, circular cities, and food-producing regenerated landscapes.
+Role: technical and ecological modules for restoring ocean breathing, soil carbon, microbial circulation, regenerative forest assets, ecological boundaries, circular cities, and food-producing regenerated landscapes.
 
 ---
 

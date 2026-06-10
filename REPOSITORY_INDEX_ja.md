@@ -59,6 +59,7 @@
 ## 03. 気候因果・炭素固定・微生物・有機物循環
 
 - [Global-Warming-Causal-Structure-Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
+- [放置杉林を負債から循環資産へ──果樹・山菜・キノコ・腐葉土で森を再生する方法](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README_ja.md)
 - [熊・鹿・猪が人里に降りてくる本当の理由──獣害ではなく、人間が森を壊した結果である](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README_ja.md)
 - [The-Real-Cause-of-Global-Warming-and-the-True-Path-to-Planetary-Restoration](https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-and-the-True-Path-to-Planetary-Restoration)
 - [The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems](https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems)

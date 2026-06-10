@@ -155,6 +155,16 @@ Future work:
 
 ---
 
+## Related: Forest Regeneration and Regenerative Forest Assets
+
+- [From Abandoned Sugi Plantations to Regenerative Forest Assets](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md) — Reframes abandoned sugi plantations and unmanaged forests not as inevitable liabilities, but as regenerative forest assets that can produce fruit trees, wild vegetables, mushrooms, humus, sawdust, wood chips, soil regeneration, biodiversity, wildlife food resources, and local circular value.
+
+- [Japanese version: 放置杉林を負債から循環資産へ](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README_ja.md)
+
+- [Original NOTE article: 放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
+
+---
+
 ## Author
 
 **Master / inchacomusho / InchaComisho**
@@ -249,7 +259,7 @@ See: [LICENSE.md](LICENSE.md)
 
 ## Keywords
 
-Master Knowledge Portal, InchaComisho, inchacomusho, Natural Supplementation Science, Direct Planetary Cooling, Earth-cycle regeneration, Artificial Wisdom, AI tuning, Natural Law philosophy, sustainable civilization, ocean circulation, deep-sea aeration, soil regeneration, microorganisms, humus, carbon fixation, climate causality, planetary civilization restoration, human-wildlife conflict, ecological displacement, habitat degradation, forest degradation, biodiversity, forest restoration, satoyama restoration, animal coexistence
+Master Knowledge Portal, InchaComisho, inchacomusho, Natural Supplementation Science, Direct Planetary Cooling, Earth-cycle regeneration, Artificial Wisdom, AI tuning, Natural Law philosophy, sustainable civilization, ocean circulation, deep-sea aeration, soil regeneration, microorganisms, humus, carbon fixation, climate causality, planetary civilization restoration, human-wildlife conflict, ecological displacement, habitat degradation, forest degradation, biodiversity, forest restoration, satoyama restoration, animal coexistence, abandoned forest, abandoned sugi plantation, Japanese cedar plantation, forest liability, regenerative forest assets, monoculture forest, sawdust, wood chips, mushroom substrate
 
 ---
 

@@ -31,6 +31,7 @@ Focus:
 - carbon fixation collapse
 - ocean heat stagnation
 - soil and microbial degradation
+- abandoned sugi plantations and regenerative forest assets
 - habitat degradation and ecological displacement
 - human-wildlife conflict
 - limits of CO2-only framing
@@ -39,6 +40,7 @@ Focus:
 Main portals:
 
 - [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
+- [From Abandoned Sugi Plantations to Regenerative Forest Assets](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md)
 - [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md)
 - [CO2 Is Not The Only Villain](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)
 
