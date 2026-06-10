@@ -97,3 +97,9 @@
 3. 個別の技術・論考リポジトリ
 
 これにより、リポジトリ群が断片的に見えることを防ぐ。
+## 関連：黎明文明
+
+* [黎明文明：惑星循環文明への移行](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README_ja.md)
+  消費型文明から惑星循環文明への移行を整理する上位文明ポータル。自然法則、人工叡智、自然補完科学、都市・文明OS、自然・微生物OS、惑星熱・循環OS、持続的未来文明マスタープラン、自然模倣型エネルギー・アーキテクチャなどを統合する文明モデル。
+
+* [English version: REIMEI Civilization: Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README.md)
