@@ -180,3 +180,5 @@ Focus:
 Guideline:
 
 Do not delete repositories immediately. First classify them, identify canonical versions, and add redirect links where appropriate.
+
+- [REIMEI Nature-Inspired Energy Architecture](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README.md)

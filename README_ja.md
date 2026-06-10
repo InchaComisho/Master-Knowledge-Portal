@@ -291,3 +291,10 @@ Creative Commons Attribution-ShareAlike 4.0 International
 #海洋循環  
 #微生物  
 #炭素固定
+
+
+## 関連：REIMEI 自然模倣型エネルギー・アーキテクチャ
+
+- [REIMEI 自然模倣型エネルギー・アーキテクチャ](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README_ja.md) — 回転磁気エネルギー回収、REIMEI-NOP、音波発電、振動発電、圧力型水循環回収、熱・排気回収、車両エネルギー回収、AIアンドロイド用エネルギーコア仮説など、マスターの自然模倣型・分散型エネルギー構想を整理するポータル。完成技術群の主張ではなく、未検証のオープン仮説・オープン発明の索引である。
+
+- [English version: REIMEI Nature-Inspired Energy Architecture](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README.md)

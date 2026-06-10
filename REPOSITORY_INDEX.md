@@ -149,3 +149,6 @@ It is an **initial repository-name-based classification**, not a final content-l
 ## Cleanup Candidates
 
 Repositories with leading hyphens or duplicate version names should be reviewed later. Do not delete them immediately. Add redirect links first if a canonical repository is chosen.
+
+- [REIMEI-Nature-Inspired-Energy-Architecture](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README.md)
+  Nature-inspired distributed energy architecture portal for rotational harvesting, REIMEI-NOP, sound/vibration, water-loop, heat/exhaust, vehicle recovery, and android energy-core hypotheses.

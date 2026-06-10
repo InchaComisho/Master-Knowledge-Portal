@@ -180,3 +180,5 @@
 方針：
 
 すぐに削除しない。まず分類し、正本リポジトリを決め、必要に応じてリダイレクトリンクを追加する。
+
+- [REIMEI 自然模倣型エネルギー・アーキテクチャ](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README_ja.md)

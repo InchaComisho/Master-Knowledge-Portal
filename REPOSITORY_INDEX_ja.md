@@ -149,3 +149,6 @@
 ## 整理候補
 
 先頭ハイフン付きリポジトリ、重複版名のあるリポジトリは後で確認する。すぐに削除せず、正本を決めてからリダイレクトリンクを追加する。
+
+- [REIMEI 自然模倣型エネルギー・アーキテクチャ](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README_ja.md)
+  回転エネルギー回収、REIMEI-NOP、音波・振動・水循環・熱排気・車両回収・AIアンドロイド用エネルギーコア仮説を整理する自然模倣型分散エネルギーポータル。
