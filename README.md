@@ -294,12 +294,14 @@ Master Knowledge Portal, InchaComisho, inchacomusho, Natural Supplementation Sci
 
 ## Related: REIMEI Nature-Inspired Energy Architecture
 
-- [REIMEI Nature-Inspired Energy Architecture](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README.md) — A portal that organizes Master's nature-inspired and distributed energy concepts, including rotational magnetic energy harvesting, REIMEI-NOP, sound and vibration energy, pressure-based water-loop recovery, heat and exhaust recovery, vehicle energy recovery, and AI android energy-core hypotheses. These are open hypotheses and open invention concepts, not proven completed technologies.
+## Related Portals and Core Frameworks
 
-- [Japanese version: REIMEI 自然模倣型エネルギー・アーキテクチャ](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README_ja.md)
-## Related: REIMEI Civilization
-
-* [REIMEI Civilization: Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README.md)
-  An upper-level civilization transition portal that organizes the shift from consumption civilization to planetary circulation civilization, integrating Natural Law, Artificial Wisdom, Nature-Complementary Science, Urban-Civilization OS, Natural-Microbial OS, Planetary Heat-Circulation OS, sustainable civilization master plans, and nature-inspired energy architecture.
-
-* [Japanese version: 黎明文明：惑星循環文明への移行](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README_ja.md)
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
+- [Nature-Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)
+- [Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Sustainable-Future-Civilization-Master-Plan)
+- [Natural-Law-Based Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
+- [Urban–Civilization OS](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
+- [Natural–Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md)
+- [Planetary Heat–Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
+- [REIMEI Nature-Inspired Energy Architecture](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README.md)
