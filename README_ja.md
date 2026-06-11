@@ -304,3 +304,9 @@ Creative Commons Attribution-ShareAlike 4.0 International
 - [自然・微生物OS](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md)
 - [惑星熱・循環OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
 - [REIMEI 自然模倣型エネルギー・アーキテクチャ](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README_ja.md)
+
+---
+
+## 関連モビリティ・環境適応車両構想
+
+* [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) — AER-Loop走行風エネルギー回収、センターミスト冷却、後付け車両モジュールを統合する環境適応型モビリティ構想。
