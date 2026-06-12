@@ -225,6 +225,12 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 - [惑星熱・循環OS（日本語版README）](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
 - [Planetary Heat and Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
 
+### 循環都市構想
+
+- [循環都市構想（日本語版README）](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
+  - [NOTE記事](https://note.com/inchacomusho/n/n734d7e7da6ce)
+  - [English: Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
+
 ---
 
 ## AI生成補助草案

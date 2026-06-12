@@ -224,6 +224,12 @@ This is also an experimental model of human-AI co-creation.
 - [Planetary Heat and Circulation OS — Japanese README](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
 - [Planetary Heat and Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
 
+### Circular City Concept
+
+- [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
+  - [Original NOTE article: 循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
+  - [Japanese README](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
+
 ---
 
 ## AI-Assisted Supplementary Drafts
