@@ -65,6 +65,7 @@ This roadmap shows how Master’s public knowledge framework connects philosophy
 | License | [LICENSE.md](LICENSE.md) | CC BY-SA 4.0 license notice |
 | Core concepts | [docs/CORE_CONCEPTS.md](docs/CORE_CONCEPTS.md) | Short explanation of the main concepts |
 | Natural Complementary Science | [docs/NATURAL_COMPLEMENTARY_SCIENCE.md](docs/NATURAL_COMPLEMENTARY_SCIENCE.md) | Detailed explanation of the three cooling engines |
+| Nature-Complementary Product Series | [docs/NATURE_COMPLEMENTARY_PRODUCT_SERIES.md](docs/NATURE_COMPLEMENTARY_PRODUCT_SERIES.md) | Concrete implementation/product concepts derived from Natural Complementary Science |
 | Comparative simulation | [docs/COMPARATIVE_SIMULATION.md](docs/COMPARATIVE_SIMULATION.md) | Conceptual comparison between mainstream climate interventions and Master's Direct Planetary Cooling framework |
 | Artificial Wisdom Guardrail | [docs/AW_GUARDRAIL_NOTE.md](docs/AW_GUARDRAIL_NOTE.md) | Interpretive guardrail note for major repositories |
 | Wa Node Browser Extension | [browser-extension/README.md](browser-extension/README.md) | Optional local browser extension MVP; user-controlled and not auto-installed |

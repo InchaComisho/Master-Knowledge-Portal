@@ -51,6 +51,34 @@ Under this view, technology should serve four functions:
 
 ---
 
+## Implementation and Product Concepts
+
+Natural Complementary Science is not only a philosophical or analytical framework. It can also guide the design of concrete product concepts that reconnect human infrastructure with natural cooling, water, energy, and ecological cycles.
+
+### First Representative Product Concept: Ultimate Hybrid Vehicle (UHV)
+
+The **Ultimate Hybrid Vehicle (UHV)** is a representative implementation concept that applies Natural Complementary Science to mobility.
+
+Unlike conventional vehicles that are treated mainly as transport devices and heat sources, UHV proposes that vehicles may function as **mobile environmental support nodes** under validated conditions.
+
+UHV integrates:
+
+- AER-Loop for auxiliary airflow and energy recovery
+- Center-Mist Cooling for localized evaporative heat mitigation
+- Retrofit Mobility for buses, taxis, logistics vehicles, public transport, and service vehicles
+- Rainwater-Recovered Parking Mist Shield for parking heat-soak reduction
+- Protected Perovskite Solar Skin for auxiliary parked energy input
+- Parked Auxiliary Energy Maintenance for low-power standby functions
+- simulation tools for cooling, water use, humidity, and auxiliary energy balance
+
+UHV should be understood as a conceptual and technical implementation candidate, not as a certified commercial vehicle system.
+
+Repository:
+
+- [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV)
+
+---
+
 ## The Three Cooling Engines
 
 The proposed framework organizes planetary recovery around three mutually linked cooling engines:

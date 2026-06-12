@@ -40,6 +40,7 @@
 
 ## 02. 海洋・ミスト・水循環・砂漠再生・冷却技術
 
+- [Ultimate-Hybrid-Vehicle-UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) — 自然補完科学の実装構想。モビリティ、都市熱緩和、気候適応インフラ、オープン発明、試作候補。
 - [Deep-Sea-Aeration](https://github.com/InchaComisho/Deep-Sea-Aeration)
 - [Deep-Sea-Aeration-Has-No-Dangerous-Risk-A-Clear-and-Complete-Explanation](https://github.com/InchaComisho/Deep-Sea-Aeration-Has-No-Dangerous-Risk-A-Clear-and-Complete-Explanation)
 - [Technical-Specification-Ocean-Tuning-Unit-OTU-](https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-)

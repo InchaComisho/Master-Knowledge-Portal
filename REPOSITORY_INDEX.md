@@ -40,6 +40,7 @@ It is an **initial repository-name-based classification**, not a final content-l
 
 ## 02. Ocean, Mist, Water, Desert, and Cooling Modules
 
+- [Ultimate-Hybrid-Vehicle-UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) — Natural Complementary Science implementation concept; mobility, urban heat mitigation, climate-adaptive infrastructure, open invention, and prototype candidate.
 - [Deep-Sea-Aeration](https://github.com/InchaComisho/Deep-Sea-Aeration)
 - [Deep-Sea-Aeration-Has-No-Dangerous-Risk-A-Clear-and-Complete-Explanation](https://github.com/InchaComisho/Deep-Sea-Aeration-Has-No-Dangerous-Risk-A-Clear-and-Complete-Explanation)
 - [Technical-Specification-Ocean-Tuning-Unit-OTU-](https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-)

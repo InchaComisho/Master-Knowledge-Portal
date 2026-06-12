@@ -60,6 +60,7 @@ Focus:
 
 Main repositories:
 
+- [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) — representative product candidate for mobility, urban heat mitigation, climate-adaptive infrastructure, and Natural Complementary Science implementation.
 - [Deep Sea Aeration](https://github.com/InchaComisho/Deep-Sea-Aeration)
 - [Technical Specification: Ocean Tuning Unit](https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-)
 - [Urban Mist Cooling System](https://github.com/InchaComisho/Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation)
