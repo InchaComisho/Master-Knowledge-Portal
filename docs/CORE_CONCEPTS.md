@@ -72,6 +72,16 @@ These principles were not derived deductively. They were observed in nature and 
 
 ---
 
+### Science and Technology Are Directed by Philosophy
+
+Science and technology do not determine their own correct use. Their direction is shaped by the philosophy, values, incentives, and civilization principles behind them.
+
+This principle connects Artificial Wisdom, Natural Complementary Science, Zero-Accident Vehicle Design, UHV, and broader civilization design.
+
+- [Science and Technology Are Directed by Philosophy](https://github.com/InchaComisho/Artificial-Wisdom-Portal/blob/main/docs/SCIENCE_TECHNOLOGY_AND_PHILOSOPHY.md)
+- [Zero-Accident Vehicle Design Framework](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework)
+- [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV)
+
 ## See Also
 
 - [Master Knowledge Portal](../README.md)

@@ -177,6 +177,17 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 
 ---
 
+### 科学技術は思想によって方向づけられる
+
+科学や技術は、それ自体で正しい方向へ進むわけではない。<br>
+それらの使われ方を決定するのは、背後にある思想、価値観、動機、文明原理である。
+
+この原理は、人工叡智、自然補完科学、事故を起こさない自動車設計、UHV、文明設計をつなぐ中核思想である。
+
+- [科学技術は思想によって方向づけられる](https://github.com/InchaComisho/Artificial-Wisdom-Portal/blob/main/docs/SCIENCE_TECHNOLOGY_AND_PHILOSOPHY_ja.md)
+- [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework)
+- [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV)
+
 ## 著者
 
 **マスター / inchacomusho / InchaComisho**
