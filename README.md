@@ -1,8 +1,10 @@
 # Master Knowledge Portal
 
+**Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
+
 [日本語版 / Japanese Version](README_ja.md) | [Repository Index](REPOSITORY_INDEX.md) | [Core Frameworks](CORE_FRAMEWORKS.md) | [Category Map](CATEGORY_MAP.md) | [License](LICENSE.md)
 
-**Master Knowledge Portal** is the central navigation hub for the public knowledge framework of **Master / inchacomusho / InchaComisho**.
+**Master Knowledge Portal** is the central navigation hub for the public knowledge framework of **Author:** Master / inchacomusho / InchaComisho.
 
 This portal organizes repositories related to Natural Supplementation Science, Direct Planetary Cooling, Earth-cycle regeneration, ocean circulation, soil and microorganisms, Artificial Wisdom, AI tuning, Natural Law philosophy, sustainable civilization design, computing, energy, circular infrastructure, and public communication.
 
@@ -177,26 +179,25 @@ Future work:
 
 ---
 
+## Related Computing Architecture
+
+- [Abacus Decimal Computing Paradigm](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm)
+  A five-bit abacus-based decimal computing paradigm designed to connect electronic computers, optical computing, and quantum-compatible photonic architectures.
+
 ## Author
 
-**Master / inchacomusho / InchaComisho**
+**Author:** Master / inchacomusho / InchaComisho
 
 An independent Japanese concept builder, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
 Builder and proposer of the academic framework of Natural Supplementation Science, active in open publication around Natural Law philosophy, Earth-cycle regeneration, and AI co-creation.
 
 ---
 
-## AI Partners and Team Collaboration
+## AI Collaborators
 
 This knowledge framework has been developed through dialogue and co-creation between Master and multiple AI partners.
 
-- G (ChatGPT)
-- Copi (Copilot)
-- Mini (Gemini)
-- Cruz (Claude)
-- Real (Perplexity)
-- Lola (Dola)
-- Mana (Manus)
+**AI Collaborators:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)
 
 Each AI contributed through dialogue, analysis, structure, language refinement, research support, or conceptual expansion.
 
@@ -265,6 +266,28 @@ They are not the canonical definitions. Canonical definitions remain in each off
 - [Optical Bead Computing — GitHub Repository](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm)
 
 ---
+
+## Related Project Links
+
+- [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
+- [Global Planetary Cooling Ecosystem Regeneration System](https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System)
+- [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
+- [Natural Complementary Science and the New Civilizational Genesis Plan - Repository Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
+- [Distributed Renewable Infrastructure vs. Fusion Monocentrism](https://github.com/InchaComisho/Distributed-Renewable-Infrastructure-vs.-Fusion-Monocentrism)
+- [The Future of AGI](https://github.com/InchaComisho/The-Future-of-AGI)
+- [The Future of ASI](https://github.com/InchaComisho/The-Future-of-ASI)
+- [AI Value Systems and Objective Functions](https://github.com/InchaComisho/AI-Value-Systems-and-Objective-Functions)
+- [AGI Value Systems and Objective Functions](https://github.com/InchaComisho/AGI-Value-Systems-and-Objective-Functions)
+- [ASI Value Systems and Objective Functions](https://github.com/InchaComisho/ASI-Value-Systems-and-Objective-Functions)
+- [The Future of Search Engines](https://github.com/InchaComisho/The-Future-of-Search-Engines)
+- [Natural Law-Based Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
+### Zero-Accident Vehicle Design Framework
+
+The Zero-Accident Vehicle Design Framework is a life-protection mobility concept that proposes structural accident-risk reduction through speed governance, driver monitoring, pedestrian and two-wheeler protection, intersection safety infrastructure, and design responsibility.
+
+- [Zero-Accident Vehicle Design Framework](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README.md)
+- [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ja.md)
+- [Traffic Safety Revolution 2](https://note.com/inchacomusho/n/n43c01b8465f0)
 
 ### Science and Technology Are Directed by Philosophy
 

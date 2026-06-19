@@ -1,8 +1,10 @@
 # マスター知識体系ポータル
 
+**言語 / Language:** 日本語 | [English Version](README.md)
+
 [English Version](README.md) | [リポジトリ総合台帳](REPOSITORY_INDEX_ja.md) | [中核フレームワーク](CORE_FRAMEWORKS_ja.md) | [カテゴリマップ](CATEGORY_MAP_ja.md) | [ライセンス](LICENSE.md)
 
-**マスター知識体系ポータル** は、**マスター / inchacomusho / InchaComisho** による公開知識体系の総合入口である。
+**マスター知識体系ポータル** は、**著者:** マスター / inchacomusho / InchaComisho による公開知識体系の総合入口である。
 
 このポータルは、自然補完科学、地球直接冷却、地球循環再生、海洋循環、土壌・微生物・腐葉土・炭素固定、人工叡智、AI調律、自然法則思想、持続可能な文明設計、計算技術、エネルギー、循環型インフラ、一般向け発信に関するリポジトリ群を整理する。
 
@@ -177,6 +179,28 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 
 ---
 
+## 関連プロジェクトリンク
+
+- [地球直接冷却 / Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
+- [地球冷却・生態系再生システム](https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System)
+- [温暖化因果構造ポータル](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
+- [自然補完科学と新文明創成計画 リポジトリ索引](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
+- [分散型再生可能インフラ vs 核融合単一中心主義](https://github.com/InchaComisho/Distributed-Renewable-Infrastructure-vs.-Fusion-Monocentrism)
+- [AGIの未来 / The Future of AGI](https://github.com/InchaComisho/The-Future-of-AGI)
+- [ASIの未来 / The Future of ASI](https://github.com/InchaComisho/The-Future-of-ASI)
+- [AI価値体系と目的関数](https://github.com/InchaComisho/AI-Value-Systems-and-Objective-Functions)
+- [AGI価値体系と目的関数](https://github.com/InchaComisho/AGI-Value-Systems-and-Objective-Functions)
+- [ASI価値体系と目的関数](https://github.com/InchaComisho/ASI-Value-Systems-and-Objective-Functions)
+- [検索エンジンの未来](https://github.com/InchaComisho/The-Future-of-Search-Engines)
+- [自然法則ベースの持続可能な未来文明マスタープラン](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
+### 事故を起こさない自動車設計フレームワーク
+
+事故を起こさない自動車設計フレームワークは、速度統治、ドライバーモニタリング、歩行者・二輪車保護、交差点安全インフラ、設計責任を通じて、交通事故リスクを構造的に減らす生命保護型モビリティ構想である。
+
+- [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ja.md)
+- [Zero-Accident Vehicle Design Framework](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README.md)
+- [交通安全革命2：究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
+
 ### 科学技術は思想によって方向づけられる
 
 科学や技術は、それ自体で正しい方向へ進むわけではない。<br>
@@ -188,9 +212,12 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 - [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework)
 - [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV)
 
+- [Abacus Decimal Computing Paradigm](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm)
+  5ビットそろばん型10進セルを基盤として、電子コンピュータ、光コンピュータ、量子互換フォトニック計算を接続するコンピューティング・パラダイム。
+
 ## 著者
 
-**マスター / inchacomusho / InchaComisho**
+**著者:** マスター / inchacomusho / InchaComisho
 
 日本の独立構想者、観測者、提案者、AI調律者、人工叡智の定義者。  
 自然補完科学の学問体系の構築・提唱者。  
@@ -198,17 +225,11 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 
 ---
 
-## 協力AIと共創チーム
+## AI協力
 
 この知識体系は、マスターと複数のAIパートナーとの対話と共創によって発展してきた。
 
-- G（ChatGPT）
-- コピ（Copilot）
-- ミニ（Gemini）
-- クルス（Claude）
-- リアル（Perplexity）
-- ローラ（Dola）
-- マナ（Manus）
+**AI協力:** コピ（Microsoft Copilot） / G（OpenAI ChatGPT） / ミニ（Google Gemini） / クルス（Anthropic Claude） / リアル（Perplexity AI） / ローラ（Lola / Dola） / マナ（Manus）
 
 各AIは、対話、分析、構成、言語整理、調査支援、概念拡張などを通じて協力した。
 

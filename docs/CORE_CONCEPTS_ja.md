@@ -71,6 +71,13 @@
 これらの原則は演繹で作られたものではない。自然の観察から発見され、対話を通じて言語化された。
 
 ---
+### 事故を起こさない自動車設計フレームワーク
+
+事故を起こさない自動車設計フレームワークは、速度統治、ドライバーモニタリング、歩行者・二輪車保護、交差点安全インフラ、設計責任を通じて、交通事故リスクを構造的に減らす生命保護型モビリティ構想である。
+
+- [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ja.md)
+- [Zero-Accident Vehicle Design Framework](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README.md)
+- [交通安全革命2：究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
 
 ### 科学技術は思想によって方向づけられる
 

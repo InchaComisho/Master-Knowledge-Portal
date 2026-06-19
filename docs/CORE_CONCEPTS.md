@@ -71,6 +71,13 @@ A sustainable civilization must be based on six principles derived from observat
 These principles were not derived deductively. They were observed in nature and named through dialogue.
 
 ---
+### Zero-Accident Vehicle Design Framework
+
+The Zero-Accident Vehicle Design Framework is a life-protection mobility concept that proposes structural accident-risk reduction through speed governance, driver monitoring, pedestrian and two-wheeler protection, intersection safety infrastructure, and design responsibility.
+
+- [Zero-Accident Vehicle Design Framework](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README.md)
+- [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ja.md)
+- [Traffic Safety Revolution 2](https://note.com/inchacomusho/n/n43c01b8465f0)
 
 ### Science and Technology Are Directed by Philosophy
 
