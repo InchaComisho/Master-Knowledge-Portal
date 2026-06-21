@@ -81,6 +81,9 @@ AIガードレールとAI調律
 - [地球直接冷却：地球本来の冷却カスケードを回復する自然補完型気候安定化体系](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)  
   雨・雲・風・海洋鉛直対流・土壌保水・植物・微生物・腐葉土・炭素固定をつなぎ直し、地球本来の冷却機能を回復する中核定義。
 
+- [OTUによる直接的惑星冷却構想](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-)
+  海洋補完型の直接冷却構想。OTUは、正回転による深部送気と、逆回転による深層水表層冷却を扱う、双方向螺旋型の海洋鉛直流調律ユニットとして再定義されている。拡散モード、プランクトン補助モード、エネルギー回収 / OTEC補助モード、エコセーフモードを含む。
+
 ### 2. 惑星文明再生
 
 - [Planetary Civilization Restoration Framework](https://github.com/InchaComisho/Planetary-Civilization-Restoration-Framework)  

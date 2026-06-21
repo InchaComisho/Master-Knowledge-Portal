@@ -81,6 +81,9 @@ This roadmap shows how Master’s public knowledge framework connects philosophy
 - [Direct Planetary Cooling: Restoring Earth’s Natural Cooling Cascades](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)  
   Main definition of Direct Planetary Cooling as restoration of Earth’s natural cooling cascades: rain, clouds, wind, ocean vertical circulation, soil water retention, vegetation, microorganisms, humus, and carbon fixation.
 
+- [Direct Planetary Cooling via Ocean Tuning Units (OTU)](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-)
+  A conceptual ocean-complementary cooling framework. OTU is now positioned as a bidirectional spiral ocean vertical-flow tuning unit, with forward aeration mode, reverse deep-water surface cooling mode, diffusion mode, plankton assist mode, energy recovery / OTEC assist mode, and Eco Safe Mode.
+
 ### 2. Planetary Civilization Restoration
 
 - [Planetary Civilization Restoration Framework](https://github.com/InchaComisho/Planetary-Civilization-Restoration-Framework)  
