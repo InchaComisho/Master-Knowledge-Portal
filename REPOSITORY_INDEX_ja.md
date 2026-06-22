@@ -18,6 +18,7 @@
 | [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) | 自然補完科学の基盤 | 中核ハブ |
 | [Artificial-Wisdom-Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal) | 人工叡智ポータル | 中核ハブ |
 | [Global-Warming-Causal-Structure-Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal) | 温暖化因果構造ポータル | 中核ハブ |
+| [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/) | クーリングクレジット制度、MRV、スコア試算、実装導線をつなぐ多言語公開ポータル | 公開ポータル |
 
 ---
 

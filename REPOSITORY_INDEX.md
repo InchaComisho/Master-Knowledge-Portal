@@ -18,6 +18,7 @@ It is an **initial repository-name-based classification**, not a final content-l
 | [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) | Natural Complementary Science foundation | Core Hub |
 | [Artificial-Wisdom-Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal) | Artificial Wisdom portal | Core Hub |
 | [Global-Warming-Causal-Structure-Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal) | Climate causality portal | Core Hub |
+| [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/) | Multilingual public portal for Cooling Credit framework, MRV, score estimation, and implementation routes | Public Portal |
 
 ---
 

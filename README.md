@@ -223,6 +223,9 @@ This is also an experimental model of human-AI co-creation.
 
 ## Related Cooling Credit Framework
 
+- [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)
+  A multilingual public portal for Cooling Credits, linking to the framework, MRV, Score Estimator, implementation portfolio, food-waste-to-humus model, monoculture forest regeneration, and Center-Mist Ultrasonic Cooling Fan concept.
+
 - [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
   A policy and technical framework for evaluating direct planetary cooling, water-cycle restoration, urban cooling, soil moisture recovery, vegetation transpiration, and ocean circulation as measurable cooling contributions.
 

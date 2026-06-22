@@ -235,6 +235,9 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 
 ## 関連するクーリングクレジット制度
 
+- [Cooling Credit Framework Portal / クーリングクレジット多言語ポータル](https://inchacomisho.github.io/Cooling-Credit-Framework/)
+  日本語・英語・アラビア語に自動切替するクーリングクレジット制度の公開ポータル。制度設計、MRV、Score Estimator、実装ポートフォリオ、フードロス腐葉土化、単一植生・放置林再生、センター超音波ミスト冷却ファンへ誘導する入口。
+
 - [Cooling Credit Framework / クーリングクレジット制度設計案](https://github.com/InchaComisho/Cooling-Credit-Framework)
   地球直接冷却、水循環再生、都市冷却、土壌保水、植生蒸散、海洋循環などの冷却効果を評価し、経済的インセンティブへ接続する制度設計案。
 
