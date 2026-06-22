@@ -218,6 +218,29 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 - [Abacus Decimal Computing Paradigm](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm)
   5ビットそろばん型10進セルを基盤として、電子コンピュータ、光コンピュータ、量子互換フォトニック計算を接続するコンピューティング・パラダイム。
 
+---
+
+## クーリングクレジット制度インデックス項目
+
+### Cooling Credit Framework / クーリングクレジット制度設計案
+
+- Repository: https://github.com/InchaComisho/Cooling-Credit-Framework
+- NOTE: https://note.com/inchacomusho/n/n0f541b313ad2
+- 概要: カーボンクレジットでは評価しきれない「実際の熱負荷低減」「水循環回復」「都市冷却」「土壌保水」「植生蒸散」「海洋循環回復」を測定し、冷却貢献として制度化するためのフレームワーク。
+- 関連領域: 地球直接冷却、水循環都市、自然補完科学、都市冷却、ヒートアイランド対策、土壌再生、植林、海洋循環、文明OS。
+
+---
+
+## 関連するクーリングクレジット制度
+
+- [Cooling Credit Framework / クーリングクレジット制度設計案](https://github.com/InchaComisho/Cooling-Credit-Framework)
+  地球直接冷却、水循環再生、都市冷却、土壌保水、植生蒸散、海洋循環などの冷却効果を評価し、経済的インセンティブへ接続する制度設計案。
+
+- [NOTE：クーリングクレジットという温暖化対策](https://note.com/inchacomusho/n/n0f541b313ad2)
+  カーボンクレジット中心の温暖化対策から、実際に熱を下げるクーリングクレジットへの転換を説明した日本語記事。
+
+---
+
 ## 著者
 
 **著者:** マスター / inchacomusho / InchaComisho
