@@ -225,6 +225,8 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 ### Cooling Credit Framework / クーリングクレジット制度設計案
 
 - Repository: https://github.com/InchaComisho/Cooling-Credit-Framework
+- Arabic README: https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md
+- アラビア語版: 乾燥地帯・高温地域・水循環型冷却との関係を含め、クーリングクレジット制度設計案をアラビア語圏へ展開するためのREADME。
 - NOTE: https://note.com/inchacomusho/n/n0f541b313ad2
 - 概要: カーボンクレジットでは評価しきれない「実際の熱負荷低減」「水循環回復」「都市冷却」「土壌保水」「植生蒸散」「海洋循環回復」を測定し、冷却貢献として制度化するためのフレームワーク。
 - 関連領域: 地球直接冷却、水循環都市、自然補完科学、都市冷却、ヒートアイランド対策、土壌再生、植林、海洋循環、文明OS。
@@ -235,6 +237,9 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 
 - [Cooling Credit Framework / クーリングクレジット制度設計案](https://github.com/InchaComisho/Cooling-Credit-Framework)
   地球直接冷却、水循環再生、都市冷却、土壌保水、植生蒸散、海洋循環などの冷却効果を評価し、経済的インセンティブへ接続する制度設計案。
+
+- [Arabic README / العربية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
+  クーリングクレジット制度設計案のアラビア語版。乾燥地帯・高温地域・水循環型冷却との関係を含む。
 
 - [NOTE：クーリングクレジットという温暖化対策](https://note.com/inchacomusho/n/n0f541b313ad2)
   カーボンクレジット中心の温暖化対策から、実際に熱を下げるクーリングクレジットへの転換を説明した日本語記事。

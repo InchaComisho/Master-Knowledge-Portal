@@ -213,6 +213,8 @@ This is also an experimental model of human-AI co-creation.
 ### Cooling Credit Framework
 
 - Repository: https://github.com/InchaComisho/Cooling-Credit-Framework
+- Arabic README: https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md
+- Arabic version: An Arabic README for extending the Cooling Credit Framework to Arabic-speaking regions, especially dry regions, high-temperature environments, and water-cycle-based cooling applications.
 - NOTE: https://note.com/inchacomusho/n/n0f541b313ad2
 - Summary: A framework for measuring and incentivizing real heat-load reduction, water-cycle restoration, urban cooling, soil moisture recovery, vegetation transpiration, and ocean circulation recovery as cooling contributions beyond conventional carbon-credit accounting.
 - Related fields: Direct Planetary Cooling, Water-Circulation Cities, Natural Complementary Science, urban cooling, heat island mitigation, soil regeneration, afforestation, ocean circulation, and Civilization OS.
@@ -223,6 +225,9 @@ This is also an experimental model of human-AI co-creation.
 
 - [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
   A policy and technical framework for evaluating direct planetary cooling, water-cycle restoration, urban cooling, soil moisture recovery, vegetation transpiration, and ocean circulation as measurable cooling contributions.
+
+- [Arabic README / العربية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
+  Arabic version of the Cooling Credit Framework for dry regions, high-temperature environments, and water-cycle-based cooling applications.
 
 - [NOTE: Cooling Credit as a Climate Strategy](https://note.com/inchacomusho/n/n0f541b313ad2)
   Japanese article explaining the transition from carbon-credit-centered climate policy to a cooling-credit model that rewards actual heat reduction.
