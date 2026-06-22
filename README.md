@@ -226,6 +226,14 @@ This is also an experimental model of human-AI co-creation.
 - [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
   A policy and technical framework for evaluating direct planetary cooling, water-cycle restoration, urban cooling, soil moisture recovery, vegetation transpiration, and ocean circulation as measurable cooling contributions.
 
+Note: Cooling Credits in this framework are not solar-shielding credits. Solar shielding reduces part of future heat input, while Cooling Credits evaluate measurable reduction of existing heat load and restoration of natural cooling capacity.
+
+- [Cooling Credit Impact Simulation](https://github.com/InchaComisho/Cooling-Credit-Framework/tree/main/simulations/cooling_credit_impact_simulation)
+  An illustrative scenario simulation comparing Cooling Credit adoption scenarios, including integrated planetary cooling and El Niño emergency response.
+
+- [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
+  Foundational framework for direct planetary cooling through emissions reduction, carbon sink restoration, water-cycle recovery, ecosystem restoration, and natural cooling recovery.
+
 - [Arabic README / العربية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
   Arabic version of the Cooling Credit Framework for dry regions, high-temperature environments, and water-cycle-based cooling applications.
 
