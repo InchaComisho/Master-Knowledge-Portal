@@ -391,3 +391,11 @@ Master Knowledge Portal, InchaComisho, inchacomusho, Natural Supplementation Sci
 ## Related Mobility and Climate-Adaptive Vehicle Concept
 
 * [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) — A climate-adaptive mobility concept integrating AER-Loop airflow energy recovery, center-mist evaporative cooling, and retrofit vehicle modules.
+
+
+---
+
+## Related Institutional Proposal: Carbon Credit to Cooling Credit
+
+- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README.md)  
+  A conceptual proposal that reframes offset-based carbon credits as book-based accounting and defines Cooling Credits as an investment framework for physically measurable heat-load reduction and planetary cooling.

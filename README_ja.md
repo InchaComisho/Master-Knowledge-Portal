@@ -391,3 +391,11 @@ Creative Commons Attribution-ShareAlike 4.0 International
 ## 関連モビリティ・環境適応車両構想
 
 * [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) — AER-Loop走行風エネルギー回収、センターミスト冷却、後付け車両モジュールを統合する環境適応型モビリティ構想。
+
+
+---
+
+## 関連制度提案：カーボンクレジットからクーリングクレジットへ
+
+- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)  
+  カーボンクレジットを帳簿上の相殺として整理し、クーリングクレジットを物理的な熱負荷低減に投資する地球救済ビジネスとして再定義する制度提案。
