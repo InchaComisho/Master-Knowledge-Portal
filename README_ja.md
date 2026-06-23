@@ -12,6 +12,18 @@
 
 ---
 
+## 支援・協力・実装について
+
+- [Cooling Credit Framework：支援・協力・実装に関するお願い](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/SUPPORT_AND_COLLABORATION_ja.md)
+
+本ポータルに掲載される構想・フレームワーク群は、公共的利益と地球環境再生のために公開されています。
+ただし、実装・事業化・制度設計・研究・投資判断に利用する場合は、原案者である **マスター / inchacomusho / InchaComisho** への明確なクレジットと、可能な範囲での支援・協力・スポンサー・共同研究・実装パートナーとしての還元をご検討ください。
+
+構想は公開する。
+しかし、実装・事業化・制度設計に使うなら、原案者に還元してほしい。
+
+---
+
 ## 中心概念
 
 ```text

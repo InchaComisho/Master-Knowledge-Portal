@@ -12,6 +12,18 @@ The purpose is not to merge all repositories into one project. The purpose is to
 
 ---
 
+## Support, Collaboration, and Implementation
+
+- [Cooling Credit Framework: Support, Collaboration, and Implementation Policy](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/SUPPORT_AND_COLLABORATION.md)
+
+The concepts and frameworks listed in this portal are openly published for the public interest and for Earth-system restoration.
+However, if they are used for implementation, commercialization, institutional design, research, or investment decisions, please provide clear credit to the original proposer, **Master / inchacomusho / InchaComisho**, and consider appropriate forms of support, collaboration, sponsorship, joint research, consulting, or implementation partnership.
+
+The concept is open.
+But if it is used for implementation, commercialization, or institutional design, value should return to the original proposer.
+
+---
+
 ## Core Concept
 
 ```text
