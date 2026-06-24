@@ -351,6 +351,9 @@ This principle connects Artificial Wisdom, Natural Complementary Science, Zero-A
 - [Zero-Accident Vehicle Design Framework](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework)
 - [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV)
 
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  A multilingual search gateway connecting sustainability, SDGs, environmental mobility, ESG, climate adaptation, urban cooling, and Civilization OS to Cooling Credits.
+
 ## License
 
 CC BY-SA 4.0  

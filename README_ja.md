@@ -232,6 +232,9 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 
 ---
 
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  サステナブル、サステナビリティ、SDGs、環境モビリティ、ESG、気候適応、都市冷却、文明OSなどの検索語から、クーリングクレジットへ接続する多言語検索入口ポータル。
+
 ## クーリングクレジット制度インデックス項目
 
 ### Cooling Credit Framework / クーリングクレジット制度設計案
