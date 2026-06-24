@@ -357,6 +357,9 @@ This principle connects Artificial Wisdom, Natural Complementary Science, Zero-A
 - [El Niño Warning and Cooling Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit)
   Explains why El Niño in the age of global warming should be understood as a warning signal from an already heat-loaded ocean, and connects that warning to Cooling Credits and thermal accounting.
 
+- [Japanese NOTE article on El Niño and Cooling Credits](https://note.com/inchacomusho/n/n3426a35cb2a2)
+  A public-facing Japanese article connecting El Niño, ocean heat accumulation, thermal accounting, and Cooling Credits.
+
 ## License
 
 CC BY-SA 4.0  
