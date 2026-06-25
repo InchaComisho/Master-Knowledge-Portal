@@ -90,7 +90,7 @@ This roadmap shows how Master’s public knowledge framework connects philosophy
 
 ### 1. Direct Planetary Cooling
 
-- [Direct Planetary Cooling: Restoring Earth’s Natural Cooling Cascades](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)  
+- [Direct Planetary Cooling: Restoring Earth’s Natural Cooling Cascades](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)
   Main definition of Direct Planetary Cooling as restoration of Earth’s natural cooling cascades: rain, clouds, wind, ocean vertical circulation, soil water retention, vegetation, microorganisms, humus, and carbon fixation.
 
 - [Direct Planetary Cooling via Ocean Tuning Units (OTU)](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-)
@@ -98,22 +98,22 @@ This roadmap shows how Master’s public knowledge framework connects philosophy
 
 ### 2. Planetary Civilization Restoration
 
-- [Planetary Civilization Restoration Framework](https://github.com/InchaComisho/Planetary-Civilization-Restoration-Framework)  
+- [Planetary Civilization Restoration Framework](https://github.com/InchaComisho/Planetary-Civilization-Restoration-Framework)
   Integrated framework for direct cooling, carbon fixation, ecosystem regeneration, infrastructure redesign, and long-term planetary civilization restoration.
 
 ### 3. Natural Complementary Science
 
-- [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)  
+- [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)
   Academic and conceptual foundation for restoring natural processes through human intelligence and technology.
 
 ### 4. Artificial Wisdom
 
-- [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)  
+- [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
   Portal for Artificial Wisdom, AI tuning, value systems, Natural Law evaluation, and long-term intelligence alignment.
 
 ### 5. Climate Causality
 
-- [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)  
+- [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
   Portal for repositories analyzing climate change as a collapse of carbon fixation, water circulation, microbial systems, ocean circulation, and heat balance.
 
 ---
@@ -134,10 +134,10 @@ This portal clarifies that the repositories belong to a single broader structure
 
 ## Language Bridge
 
-Master primarily writes and thinks in Japanese.  
+Master primarily writes and thinks in Japanese.
 However, this portal welcomes readers, researchers, developers, and collaborators from any language community.
 
-You may open an Issue in your own language.  
+You may open an Issue in your own language.
 AI translation and interpretation can help bridge your message to Master.
 
 This project treats AI not only as a translation tool, but as a bridge for cross-cultural co-creation.
@@ -203,7 +203,7 @@ Future work:
 
 **Author:** Master / inchacomusho / InchaComisho
 
-An independent Japanese concept builder, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+An independent Japanese concept builder, observer, proposer, AI tuner, and definer of Artificial Wisdom.
 Builder and proposer of the academic framework of Natural Supplementation Science, active in open publication around Natural Law philosophy, Earth-cycle regeneration, and AI co-creation.
 
 ---
@@ -362,7 +362,7 @@ This principle connects Artificial Wisdom, Natural Complementary Science, Zero-A
 
 ## License
 
-CC BY-SA 4.0  
+CC BY-SA 4.0
 Creative Commons Attribution-ShareAlike 4.0 International
 
 See: [LICENSE.md](LICENSE.md)
@@ -377,19 +377,19 @@ Master Knowledge Portal, InchaComisho, inchacomusho, Natural Supplementation Sci
 
 ## Hashtags
 
-#MasterKnowledgePortal  
-#InchaComisho  
-#NaturalSupplementationScience  
-#DirectPlanetaryCooling  
-#EarthCycleRegeneration  
-#ArtificialWisdom  
-#AITuning  
-#NaturalLaw  
-#SustainableCivilization  
-#ClimateCausality  
-#SoilRegeneration  
-#OceanCirculation  
-#Microorganisms  
+#MasterKnowledgePortal
+#InchaComisho
+#NaturalSupplementationScience
+#DirectPlanetaryCooling
+#EarthCycleRegeneration
+#ArtificialWisdom
+#AITuning
+#NaturalLaw
+#SustainableCivilization
+#ClimateCausality
+#SoilRegeneration
+#OceanCirculation
+#Microorganisms
 #CarbonFixation
 
 
@@ -418,7 +418,7 @@ Master Knowledge Portal, InchaComisho, inchacomusho, Natural Supplementation Sci
 
 ## Related Institutional Proposal: Carbon Credit to Cooling Credit
 
-- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README.md)  
+- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README.md)
   A conceptual proposal that reframes offset-based carbon credits as book-based accounting and defines Cooling Credits as an investment framework for physically measurable heat-load reduction and planetary cooling.
 
 ---
@@ -435,3 +435,8 @@ Backlinks to Cooling Credit Framework business-model documents that are closely 
 - [Tourism Resource Recovery Cooling Credit Model](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/TOURISM_RESOURCE_RECOVERY_COOLING_CREDIT_MODEL.md)
 - [Desert Circular Pyramid City Business Model](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/DESERT_CIRCULAR_PYRAMID_CITY_BUSINESS_MODEL.md)
 - [Monoculture Mountain Forest to Native-Fruit Mixed Forest Business Model](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/MONOCULTURE_MOUNTAIN_FOREST_TO_NATIVE_FRUIT_FOREST_BUSINESS_MODEL.md)
+
+## Related Links
+
+- [Climate Disasters as Heat Redistribution and Cooling Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit)
+  Explains climate disasters as overloaded heat and water-vapor redistribution, and connects disaster prevention to thermal accounting and Cooling Credits.

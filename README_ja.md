@@ -90,7 +90,7 @@ AIガードレールとAI調律
 
 ### 1. 地球直接冷却
 
-- [地球直接冷却：地球本来の冷却カスケードを回復する自然補完型気候安定化体系](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)  
+- [地球直接冷却：地球本来の冷却カスケードを回復する自然補完型気候安定化体系](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)
   雨・雲・風・海洋鉛直対流・土壌保水・植物・微生物・腐葉土・炭素固定をつなぎ直し、地球本来の冷却機能を回復する中核定義。
 
 - [OTUによる直接的惑星冷却構想](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-)
@@ -98,22 +98,22 @@ AIガードレールとAI調律
 
 ### 2. 惑星文明再生
 
-- [Planetary Civilization Restoration Framework](https://github.com/InchaComisho/Planetary-Civilization-Restoration-Framework)  
+- [Planetary Civilization Restoration Framework](https://github.com/InchaComisho/Planetary-Civilization-Restoration-Framework)
   直接冷却、炭素固定、生態系再生、インフラ再設計、長期的な惑星文明回復を統合する枠組み。
 
 ### 3. 自然補完科学
 
-- [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)  
+- [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)
   人間の知性と技術によって自然現象を補完し、壊れた循環を修復する学問的・概念的基盤。
 
 ### 4. 人工叡智
 
-- [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)  
+- [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
   人工叡智、AI調律、価値体系、自然法則評価、長期的な知性調和のためのポータル。
 
 ### 5. 温暖化因果構造
 
-- [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)  
+- [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
   気候変動を、炭素固定、水循環、微生物、海洋循環、熱収支の崩壊として分析するリポジトリ群の入口。
 
 ---
@@ -134,10 +134,10 @@ InchaComisho のリポジトリ群は、多数の独立した記事・構想・�
 
 ## 言語の架け橋
 
-マスターは主に日本語で思考し、執筆する。  
+マスターは主に日本語で思考し、執筆する。
 しかし、このポータルは、あらゆる言語圏の読者、研究者、開発者、協力者に開かれている。
 
-自分の言語でIssueを立ててもよい。  
+自分の言語でIssueを立ててもよい。
 AI翻訳とAI解釈によって、その内容をマスターへ届けることができる。
 
 このプロジェクトでは、AIを単なる翻訳道具ではなく、異文化共創の橋として扱う。
@@ -282,8 +282,8 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 
 **著者:** マスター / inchacomusho / InchaComisho
 
-日本の独立構想者、観測者、提案者、AI調律者、人工叡智の定義者。  
-自然補完科学の学問体系の構築・提唱者。  
+日本の独立構想者、観測者、提案者、AI調律者、人工叡智の定義者。
+自然補完科学の学問体系の構築・提唱者。
 自然法則思想、地球循環再生、AIとの共創を中心に公開活動を行う。
 
 ---
@@ -364,7 +364,7 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 
 ## ライセンス
 
-CC BY-SA 4.0  
+CC BY-SA 4.0
 Creative Commons Attribution-ShareAlike 4.0 International
 
 詳細：[LICENSE.md](LICENSE.md)
@@ -379,19 +379,19 @@ Creative Commons Attribution-ShareAlike 4.0 International
 
 ## ハッシュタグ
 
-#マスター知識体系ポータル  
-#InchaComisho  
-#自然補完科学  
-#地球直接冷却  
-#地球循環再生  
-#人工叡智  
-#AI調律  
-#自然法則思想  
-#持続可能文明  
-#温暖化因果構造  
-#土壌再生  
-#海洋循環  
-#微生物  
+#マスター知識体系ポータル
+#InchaComisho
+#自然補完科学
+#地球直接冷却
+#地球循環再生
+#人工叡智
+#AI調律
+#自然法則思想
+#持続可能文明
+#温暖化因果構造
+#土壌再生
+#海洋循環
+#微生物
 #炭素固定
 
 
@@ -418,7 +418,7 @@ Creative Commons Attribution-ShareAlike 4.0 International
 
 ## 関連制度提案：カーボンクレジットからクーリングクレジットへ
 
-- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)  
+- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)
   カーボンクレジットを帳簿上の相殺として整理し、クーリングクレジットを物理的な熱負荷低減に投資する地球救済ビジネスとして再定義する制度提案。
 
 ---
@@ -435,3 +435,8 @@ Cooling Credit Framework の事業モデル群のうち、このリポジトリ�
 - [観光資源回復クーリングクレジットモデル](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/TOURISM_RESOURCE_RECOVERY_COOLING_CREDIT_MODEL_ja.md)
 - [砂漠循環ピラミッド都市事業モデル](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/DESERT_CIRCULAR_PYRAMID_CITY_BUSINESS_MODEL_ja.md)
 - [単一植生山林から在来果樹混交林への転換事業モデル](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/MONOCULTURE_MOUNTAIN_FOREST_TO_NATIVE_FRUIT_FOREST_BUSINESS_MODEL_ja.md)
+
+## 関連リンク
+
+- [気候災害・熱再分配・クーリングクレジット](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit/blob/main/README_ja.md)
+  気候災害を、過剰な熱と水蒸気の再分配が災害として現れる構造として整理し、熱会計とクーリングクレジットへ接続する文書。
