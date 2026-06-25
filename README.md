@@ -199,6 +199,16 @@ Future work:
 - [Abacus Decimal Computing Paradigm](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm)
   A five-bit abacus-based decimal computing paradigm designed to connect electronic computers, optical computing, and quantum-compatible photonic architectures.
 
+---
+
+### Global Warming Causal Structure
+
+- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
+- [GitHub Pages Portal](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+- [NOTE Article](https://note.com/inchacomusho/n/n5b2102ffc1c2)
+
+A systems-based causal model explaining global warming as a compound crisis involving not only CO₂ increase, but also the weakening and loss of Earth’s natural cooling functions, including forests, evapotranspiration, soil microbes, water cycles, phytoplankton, and ocean-atmosphere circulation.
+
 ## Author
 
 **Author:** Master / inchacomusho / InchaComisho
