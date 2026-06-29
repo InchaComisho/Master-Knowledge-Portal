@@ -302,7 +302,7 @@ CO₂増加だけでなく、森林、蒸散、土壌微生物、水循環、植
 
 この知識体系は、マスターと複数のAIパートナーとの対話と共創によって発展してきた。
 
-**AI協力:** コピ（Microsoft Copilot） / G（OpenAI ChatGPT） / ミニ（Google Gemini） / クルス（Anthropic Claude） / リアル（Perplexity AI） / ローラ（Lola / Dola） / マナ（Manus）
+**AI協力:** G（OpenAI ChatGPT） / ミニ（Google Gemini） / クルス（Anthropic Claude） / リアル（Perplexity AI） / ローラ（ Dola） / マナ（Manus）
 
 各AIは、対話、分析、構成、言語整理、調査支援、概念拡張などを通じて協力した。
 
