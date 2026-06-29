@@ -117,3 +117,12 @@
 - [中核概念](CORE_CONCEPTS_ja.md)
 - [比較役割分析](COMPARATIVE_SIMULATION_ja.md)
 - [自然補完科学と三つの冷却エンジン](NATURAL_COMPLEMENTARY_SCIENCE_ja.md)
+
+---
+
+## ライセンス
+
+CC BY 4.0
+
+本記事は、Creative Commons Attribution 4.0 International License（CC BY 4.0）で公開する。  
+著者表示を行う限り、共有、転載、翻訳、改変、再利用を許可する。

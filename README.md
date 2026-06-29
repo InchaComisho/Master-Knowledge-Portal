@@ -76,7 +76,7 @@ This roadmap shows how Master’s public knowledge framework connects philosophy
 | Japanese portal | [README_ja.md](README_ja.md) | Japanese-language entrance |
 | Japanese repository map | [REPOSITORY_INDEX_ja.md](REPOSITORY_INDEX_ja.md) | Japanese repository classification |
 | Japanese core frameworks | [CORE_FRAMEWORKS_ja.md](CORE_FRAMEWORKS_ja.md) | Japanese core framework guide |
-| License | [LICENSE.md](LICENSE.md) | CC BY-SA 4.0 license notice |
+| License | [LICENSE.md](LICENSE.md) | CC BY 4.0 license notice |
 | Core concepts | [docs/CORE_CONCEPTS.md](docs/CORE_CONCEPTS.md) | Short explanation of the main concepts |
 | Natural Complementary Science | [docs/NATURAL_COMPLEMENTARY_SCIENCE.md](docs/NATURAL_COMPLEMENTARY_SCIENCE.md) | Detailed explanation of the three cooling engines |
 | Nature-Complementary Product Series | [docs/NATURE_COMPLEMENTARY_PRODUCT_SERIES.md](docs/NATURE_COMPLEMENTARY_PRODUCT_SERIES.md) | Concrete implementation/product concepts derived from Natural Complementary Science |
@@ -372,8 +372,8 @@ This principle connects Artificial Wisdom, Natural Complementary Science, Zero-A
 
 ## License
 
-CC BY-SA 4.0
-Creative Commons Attribution-ShareAlike 4.0 International
+CC BY 4.0
+Creative Commons Attribution 4.0 International
 
 See: [LICENSE.md](LICENSE.md)
 

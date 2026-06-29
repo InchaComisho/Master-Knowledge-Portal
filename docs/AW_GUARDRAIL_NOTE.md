@@ -131,3 +131,12 @@ The guardrail note is therefore a small but important interface between reposito
 - [Core Concepts](CORE_CONCEPTS.md)
 - [Comparative Role Analysis](COMPARATIVE_SIMULATION.md)
 - [Natural Complementary Science and the Three Cooling Engines](NATURAL_COMPLEMENTARY_SCIENCE.md)
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.

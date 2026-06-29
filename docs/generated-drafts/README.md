@@ -53,6 +53,6 @@ Use these drafts as explanatory material, cross-framework summaries, and candida
 
 ## License
 
-CC BY-SA 4.0
+CC BY 4.0
 
 Author: Master / inchacomusho / InchaComisho

@@ -87,3 +87,22 @@ This should be validated for ecological safety, contamination risk, local regula
 The Nature-Complementary Product Series translates the principles of Natural Complementary Science into cautious, testable implementation candidates.
 
 These concepts are not finished products. They are proposed as open-invention directions that require engineering, ecological, legal, safety, and regional validation.
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.

@@ -229,7 +229,7 @@ SRMは理論上、地表温度を短期的に下げる可能性がある。し�
 
 ## ライセンス
 
-CC BY-SA 4.0 Creative Commons Attribution-ShareAlike 4.0 International
+CC BY 4.0 Creative Commons Attribution 4.0 International
 
 ## 参考文献
 

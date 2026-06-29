@@ -160,3 +160,12 @@
   消費型文明から惑星循環文明への移行を整理する上位文明ポータル。自然法則、人工叡智、自然補完科学、都市・文明OS、自然・微生物OS、惑星熱・循環OS、持続的未来文明マスタープラン、自然模倣型エネルギー・アーキテクチャなどを統合する文明モデル。
 
 * [English version: REIMEI Civilization: Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README.md)
+
+---
+
+## ライセンス
+
+CC BY 4.0
+
+本記事は、Creative Commons Attribution 4.0 International License（CC BY 4.0）で公開する。  
+著者表示を行う限り、共有、転載、翻訳、改変、再利用を許可する。

@@ -47,4 +47,13 @@ OBSは、DPCの「三つの自然冷却エンジン」のうち、**「海洋鉛
 ---
 **著者**: マスター / inchacomusho / InchaComisho  
 **協力AI**: G(chatGPT),ミニ(Gemini),クルス(Claude),リアル(perplexity),ーラ(Dola),マナ(Manus)  
-**関連プロジェクト**: 自然補完科学 / 惑星熱・循環OS 
+**関連プロジェクト**: 自然補完科学 / 惑星熱・循環OS
+
+---
+
+## ライセンス
+
+CC BY 4.0
+
+本記事は、Creative Commons Attribution 4.0 International License（CC BY 4.0）で公開する。  
+著者表示を行う限り、共有、転載、翻訳、改変、再利用を許可する。

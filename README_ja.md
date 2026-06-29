@@ -76,7 +76,7 @@ AIガードレールとAI調律
 | 英語ポータル | [README.md](README.md) | 英語版入口 |
 | 英語リポジトリ地図 | [REPOSITORY_INDEX.md](REPOSITORY_INDEX.md) | 英語版リポジトリ分類 |
 | 英語中核フレーム | [CORE_FRAMEWORKS.md](CORE_FRAMEWORKS.md) | 英語版中核フレームワーク案内 |
-| ライセンス | [LICENSE.md](LICENSE.md) | CC BY-SA 4.0 ライセンス表示 |
+| ライセンス | [LICENSE.md](LICENSE.md) | CC BY 4.0 ライセンス表示 |
 | 中核概念 | [docs/CORE_CONCEPTS_ja.md](docs/CORE_CONCEPTS_ja.md) | 主要概念の短い説明 |
 | 自然補完科学 | [docs/NATURAL_COMPLEMENTARY_SCIENCE_ja.md](docs/NATURAL_COMPLEMENTARY_SCIENCE_ja.md) | 三つの冷却エンジンの詳細解説 |
 | 自然補完プロダクト・シリーズ | [docs/NATURE_COMPLEMENTARY_PRODUCT_SERIES_ja.md](docs/NATURE_COMPLEMENTARY_PRODUCT_SERIES_ja.md) | 自然補完科学から派生する具体的な実装・プロダクト構想 |
@@ -374,8 +374,8 @@ CO₂増加だけでなく、森林、蒸散、土壌微生物、水循環、植
 
 ## ライセンス
 
-CC BY-SA 4.0
-Creative Commons Attribution-ShareAlike 4.0 International
+CC BY 4.0
+Creative Commons Attribution 4.0 International
 
 詳細：[LICENSE.md](LICENSE.md)
 
