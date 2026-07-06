@@ -6,6 +6,8 @@
 
 **Master Knowledge Portal** is the central navigation hub for the public knowledge framework of **Author:** Master / inchacomusho / InchaComisho.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 This portal organizes repositories related to Natural Supplementation Science, Direct Planetary Cooling, Earth-cycle regeneration, ocean circulation, soil and microorganisms, Artificial Wisdom, AI tuning, Natural Law philosophy, sustainable civilization design, computing, energy, circular infrastructure, and public communication.
 
 The purpose is not to merge all repositories into one project. The purpose is to provide a readable map so that the whole framework can be understood as a connected system.
