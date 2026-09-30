@@ -207,7 +207,6 @@ Future work:
 
 - [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
 - [GitHub Pages Portal](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
-- [NOTE Article](https://note.com/inchacomusho/n/n5b2102ffc1c2)
 
 A systems-based causal model explaining global warming as a compound crisis involving not only CO₂ increase, but also the weakening and loss of Earth’s natural cooling functions, including forests, evapotranspiration, soil microbes, water cycles, phytoplankton, and ocean-atmosphere circulation.
 

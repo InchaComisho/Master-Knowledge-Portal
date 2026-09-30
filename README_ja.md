@@ -284,7 +284,6 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 
 - [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
 - [GitHub Pages ポータル](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
-- [NOTE記事](https://note.com/inchacomusho/n/n5b2102ffc1c2)
 
 CO₂増加だけでなく、森林、蒸散、土壌微生物、水循環、植物プランクトン、海洋・大気循環など、地球本来の自然冷却機能の弱体化・喪失を含めて温暖化の因果関係を整理するシステム論的モデル。
 
