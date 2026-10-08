@@ -161,10 +161,6 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 
 ---
 
-## 関連NOTE記事
-
-- [地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
-
 ---
 
 ## 関連：獣害・人害・人間と野生動物の衝突
@@ -181,8 +177,6 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 
 - [English version: From Abandoned Sugi Plantations to Regenerative Forest Assets](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md)
 
-- [NOTE原文：放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
-
 ---
 
 ## 関連：REIMEI-NOP・自然起源プラズマ生成炉・自然模倣エネルギー仮説
@@ -190,9 +184,6 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 - [REIMEI-NOP：自然起源プラズマ生成炉構想](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README_ja.md) — 雷が発生する前段階にある水滴・気流・摩擦・螺旋流・帯電・電荷分離・圧縮・放電・プラズマ化の流れを、小型構造体内で模倣できる可能性を検討する未検証のオープン仮説。AIアンドロイド用小型エネルギーコア、自然模倣技術、自然補完科学、REIMEI-CIVILIZATION に接続する構想。
 
 - [English version: REIMEI-NOP: Natural-Origin Plasma Generator](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README.md)
-
-- [NOTE記事：雷の原理を模倣する自然起源プラズマ炉構想](https://note.com/inchacomusho/n/nf62145209118)
-- [元構想記事：REIMEI-NOP 技術設計書兼文明宣言](https://note.com/inchacomusho/n/n79be86605430)
 
 ---
 
@@ -216,7 +207,6 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 
 - [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ja.md)
 - [Zero-Accident Vehicle Design Framework](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README.md)
-- [交通安全革命2：究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
 
 ### 科学技術は思想によって方向づけられる
 
@@ -240,7 +230,6 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 - [温暖化時代のエルニーニョとクーリングクレジット](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit/blob/main/README_ja.md)
   すでに熱を抱えた海にエルニーニョが重なる危険性を整理し、その警告をクーリングクレジットと熱会計へ接続する文書。
 
-- [NOTE版：温暖化時代のエルニーニョとクーリングクレジット](https://note.com/inchacomusho/n/n3426a35cb2a2)
   エルニーニョ、海洋蓄熱、熱会計、クーリングクレジットを一般向けに接続した記事。
 
 ## クーリングクレジット制度インデックス項目
@@ -250,7 +239,6 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 - Repository: https://github.com/InchaComisho/Cooling-Credit-Framework
 - Arabic README: https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md
 - アラビア語版: 乾燥地帯・高温地域・水循環型冷却との関係を含め、クーリングクレジット制度設計案をアラビア語圏へ展開するためのREADME。
-- NOTE: https://note.com/inchacomusho/n/n0f541b313ad2
 - 概要: カーボンクレジットでは評価しきれない「実際の熱負荷低減」「水循環回復」「都市冷却」「土壌保水」「植生蒸散」「海洋循環回復」を測定し、冷却貢献として制度化するためのフレームワーク。
 - 関連領域: 地球直接冷却、水循環都市、自然補完科学、都市冷却、ヒートアイランド対策、土壌再生、植林、海洋循環、文明OS。
 
@@ -275,7 +263,6 @@ AI翻訳とAI解釈によって、その内容をマスターへ届けること�
 - [Arabic README / العربية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
   クーリングクレジット制度設計案のアラビア語版。乾燥地帯・高温地域・水循環型冷却との関係を含む。
 
-- [NOTE：クーリングクレジットという温暖化対策](https://note.com/inchacomusho/n/n0f541b313ad2)
   カーボンクレジット中心の温暖化対策から、実際に熱を下げるクーリングクレジットへの転換を説明した日本語記事。
 
 ---
@@ -318,26 +305,22 @@ CO₂増加だけでなく、森林、蒸散、土壌微生物、水循環、植
 
 ### 都市・文明OS
 
-- [都市・文明OSとは何か](https://note.com/inchacomusho/n/ne7ebce3dcf78)
 - [都市・文明OS（日本語版README）](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
 - [Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
 
 ### 自然・微生物OS
 
-- [自然・微生物OSとは何か](https://note.com/inchacomusho/n/n0f08276bd638)
 - [自然・微生物OS（日本語版README）](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md)
 - [Natural–Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md)
 
 ### 惑星熱・循環OS
 
-- [惑星熱・循環OSとは何か](https://note.com/inchacomusho/n/n9992ff391394)
 - [惑星熱・循環OS（日本語版README）](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
 - [Planetary Heat and Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
 
 ### 循環都市構想
 
 - [循環都市構想（日本語版README）](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
-  - [NOTE記事](https://note.com/inchacomusho/n/n734d7e7da6ce)
   - [English: Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
 
 ---
@@ -356,19 +339,16 @@ CO₂増加だけでなく、森林、蒸散、土壌微生物、水循環、植
 
 ### 光量子コンピュータ / 光珠量子計算
 
-- [光量子コンピュータ：多値フォトニックパラダイム（光珠量子計算） — NOTE](https://note.com/inchacomusho/n/ndd3f8a35af41)
 - [光量子コンピュータ：多値フォトニックパラダイム（光珠量子計算） — GitHub 日本語版](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README_ja.md)
 - [Optical Bead Quantum Computing — GitHub English](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README.md)
 
 ### 電子・光ハイブリッド量子互換コンピューティング
 
-- [電子・光ハイブリッド量子互換コンピューティング — NOTE](https://note.com/inchacomusho/n/n110ab05dca7e)
 - [電子・光ハイブリッド量子互換コンピューティング — GitHub 日本語版](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing/blob/main/README_ja.md)
 - [Electronic–Optical Hybrid Quantum-Compatible Computing — GitHub English](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing/blob/main/README.md)
 
 ### 関連する初期構想・学術草案
 
-- [光珠量子計算：多値フォトニックパラダイム（日本語版学術論文） — NOTE](https://note.com/inchacomusho/n/nf2b969db3c43)
 - [電子・光ハイブリッド量子互換コンピューティング構想 — GitHub 日本語版](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture/blob/main/README_ja.md)
 - [Electronic-Optical Hybrid Quantum-Compatible Computing Architecture — GitHub English](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture/blob/main/README.md)
 - [光学ビードコンピューティング — GitHub 日本語版](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README_ja.md)

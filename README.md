@@ -161,10 +161,6 @@ Future work:
 
 ---
 
-## Related NOTE Article
-
-- [地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
-
 ---
 
 ## Related: Human-Wildlife Conflict and Ecological Displacement
@@ -181,8 +177,6 @@ Future work:
 
 - [Japanese version: 放置杉林を負債から循環資産へ](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README_ja.md)
 
-- [Original NOTE article: 放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
-
 ---
 
 ## Related: REIMEI-NOP and Nature-Inspired Plasma Energy Hypothesis
@@ -190,9 +184,6 @@ Future work:
 - [REIMEI-NOP: Natural-Origin Plasma Generator](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README.md) — An open hypothesis for a nature-inspired plasma generation concept based on the pre-discharge processes of lightning, including mist friction, spiral flow, charge separation, compression, discharge, plasma-like behavior, and possible auxiliary energy recovery. This is not a proven power generator, but an open concept for observation, verification, and future research.
 
 - [Japanese version: REIMEI-NOP：自然起源プラズマ生成炉構想](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README_ja.md)
-
-- [NOTE article: 雷の原理を模倣する自然起源プラズマ炉構想](https://note.com/inchacomusho/n/nf62145209118)
-- [Original open concept: REIMEI-NOP 技術設計書兼文明宣言](https://note.com/inchacomusho/n/n79be86605430)
 
 ---
 
@@ -243,7 +234,6 @@ This is also an experimental model of human-AI co-creation.
 - Repository: https://github.com/InchaComisho/Cooling-Credit-Framework
 - Arabic README: https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md
 - Arabic version: An Arabic README for extending the Cooling Credit Framework to Arabic-speaking regions, especially dry regions, high-temperature environments, and water-cycle-based cooling applications.
-- NOTE: https://note.com/inchacomusho/n/n0f541b313ad2
 - Summary: A framework for measuring and incentivizing real heat-load reduction, water-cycle restoration, urban cooling, soil moisture recovery, vegetation transpiration, and ocean circulation recovery as cooling contributions beyond conventional carbon-credit accounting.
 - Related fields: Direct Planetary Cooling, Water-Circulation Cities, Natural Complementary Science, urban cooling, heat island mitigation, soil regeneration, afforestation, ocean circulation, and Civilization OS.
 
@@ -268,7 +258,6 @@ Note: Cooling Credits in this framework are not solar-shielding credits. Solar s
 - [Arabic README / العربية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
   Arabic version of the Cooling Credit Framework for dry regions, high-temperature environments, and water-cycle-based cooling applications.
 
-- [NOTE: Cooling Credit as a Climate Strategy](https://note.com/inchacomusho/n/n0f541b313ad2)
   Japanese article explaining the transition from carbon-credit-centered climate policy to a cooling-credit model that rewards actual heat reduction.
 
 ---
@@ -277,26 +266,22 @@ Note: Cooling Credits in this framework are not solar-shielding credits. Solar s
 
 ### Urban–Civilization OS
 
-- [Japanese introductory article: 都市・文明OSとは何か](https://note.com/inchacomusho/n/ne7ebce3dcf78)
 - [Urban–Civilization OS — Japanese README](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
 - [Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
 
 ### Natural–Microbial OS
 
-- [Japanese introductory article: 自然・微生物OSとは何か](https://note.com/inchacomusho/n/n0f08276bd638)
 - [Natural–Microbial OS — Japanese README](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md)
 - [Natural–Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md)
 
 ### Planetary Heat and Circulation OS
 
-- [Japanese introductory article: 惑星熱・循環OSとは何か](https://note.com/inchacomusho/n/n9992ff391394)
 - [Planetary Heat and Circulation OS — Japanese README](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
 - [Planetary Heat and Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
 
 ### Circular City Concept
 
 - [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
-  - [Original NOTE article: 循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
   - [Japanese README](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
 
 ---
@@ -315,19 +300,16 @@ They are not the canonical definitions. Canonical definitions remain in each off
 
 ### Optical Quantum Computer / Optical Bead Quantum Computing
 
-- [Japanese NOTE article: 光量子コンピュータ：多値フォトニックパラダイム（光珠量子計算）](https://note.com/inchacomusho/n/ndd3f8a35af41)
 - [Optical Bead Quantum Computing — Japanese README](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README_ja.md)
 - [Optical Bead Quantum Computing — English README](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README.md)
 
 ### Electronic–Optical Hybrid Quantum-Compatible Computing
 
-- [Japanese NOTE article: 電子・光ハイブリッド量子互換コンピューティング](https://note.com/inchacomusho/n/n110ab05dca7e)
 - [Electronic–Optical Hybrid Quantum-Compatible Computing — Japanese README](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing/blob/main/README_ja.md)
 - [Electronic–Optical Hybrid Quantum-Compatible Computing — English README](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing/blob/main/README.md)
 
 ### Related Earlier Drafts and Architecture Documents
 
-- [Japanese academic draft: 光珠量子計算：多値フォトニックパラダイム](https://note.com/inchacomusho/n/nf2b969db3c43)
 - [Electronic–Optical Hybrid Quantum-Compatible Computing Architecture — Japanese README](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture/blob/main/README_ja.md)
 - [Electronic-Optical Hybrid Quantum-Compatible Computing Architecture — English README](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture/blob/main/README.md)
 - [Optical Bead Computing — Japanese README](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README_ja.md)
@@ -355,7 +337,6 @@ The Zero-Accident Vehicle Design Framework is a life-protection mobility concept
 
 - [Zero-Accident Vehicle Design Framework](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README.md)
 - [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ja.md)
-- [Traffic Safety Revolution 2](https://note.com/inchacomusho/n/n43c01b8465f0)
 
 ### Science and Technology Are Directed by Philosophy
 
@@ -373,7 +354,6 @@ This principle connects Artificial Wisdom, Natural Complementary Science, Zero-A
 - [El Niño Warning and Cooling Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit)
   Explains why El Niño in the age of global warming should be understood as a warning signal from an already heat-loaded ocean, and connects that warning to Cooling Credits and thermal accounting.
 
-- [Japanese NOTE article on El Niño and Cooling Credits](https://note.com/inchacomusho/n/n3426a35cb2a2)
   A public-facing Japanese article connecting El Niño, ocean heat accumulation, thermal accounting, and Cooling Credits.
 
 ## License

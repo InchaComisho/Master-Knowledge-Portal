@@ -312,7 +312,6 @@ Creative Commons Attribution 4.0 International
 ### リンク
 
 都市・文明OSとは何か  
-<https://note.com/inchacomusho/n/ne7ebce3dcf78>
 
 都市・文明OS  
 [https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README\_ja.md](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
@@ -321,7 +320,6 @@ Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrat
 <https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md>
 
 自然・微生物OSとは何か  
-<https://note.com/inchacomusho/n/n0f08276bd638>
 
 自然・微生物OS  
 [https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README\_ja.md](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md)
@@ -330,7 +328,6 @@ Natural–Microbial OS
 <https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md>
 
 惑星熱・循環OS  
-<https://note.com/inchacomusho/n/n9992ff391394>
 
 惑星熱・循環OS  
 [https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README\_ja.md](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)

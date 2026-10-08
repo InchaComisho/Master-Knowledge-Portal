@@ -77,7 +77,6 @@ The Zero-Accident Vehicle Design Framework is a life-protection mobility concept
 
 - [Zero-Accident Vehicle Design Framework](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README.md)
 - [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ja.md)
-- [Traffic Safety Revolution 2](https://note.com/inchacomusho/n/n43c01b8465f0)
 
 ### Science and Technology Are Directed by Philosophy
 
