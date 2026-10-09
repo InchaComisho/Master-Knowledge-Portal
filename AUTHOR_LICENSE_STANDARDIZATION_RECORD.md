@@ -1,5 +1,7 @@
 # Author and License Standardization Record
 
+[日本語版はこちら / Japanese version](AUTHOR_LICENSE_STANDARDIZATION_RECORD_ja.md)
+
 ## InchaComisho Public Documentation License Record
 
 This document records the standardization of author attribution and license notices across InchaComisho-related public repositories.

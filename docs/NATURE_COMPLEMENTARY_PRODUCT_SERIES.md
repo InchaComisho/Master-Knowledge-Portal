@@ -1,5 +1,7 @@
 # Nature-Complementary Product Series
 
+[日本語版はこちら / Japanese version](NATURE_COMPLEMENTARY_PRODUCT_SERIES_ja.md)
+
 The Nature-Complementary Product Series defines concrete implementation and product concepts derived from Natural Complementary Science.
 
 These concepts translate the framework into cautious, testable directions. They are not finished products and should not be described as scientifically proven, deployment-ready, or universally effective.

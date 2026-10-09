@@ -1,5 +1,7 @@
 # Related Resonance Energy Systems Index
 
+[日本語版はこちら / Japanese version](RELATED_RESONANCE_ENERGY_SYSTEMS_ja.md)
+
 ## Mutual Relationship Between VIRECS, the Acoustic Power Generation Reactor, and REIMEI-NOP
 
 This page is an index from the Master Knowledge Portal for resonance, vibration, and nature-inspired energy Open Concepts proposed by Master / inchacomusho / InchaComisho.

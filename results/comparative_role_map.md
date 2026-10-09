@@ -1,5 +1,7 @@
 # Comparative Role Map: Climate Interventions
 
+[日本語版はこちら / Japanese version](comparative_role_map_ja.md)
+
 > **Framing:** This map classifies climate interventions by the problem layer they address,
 > not by ranking them against each other.
 > The central question is: *which heat pathways and circulation systems does each approach actually engage?*

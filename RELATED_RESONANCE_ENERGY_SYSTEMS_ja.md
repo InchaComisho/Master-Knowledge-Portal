@@ -1,5 +1,7 @@
 # 関連共鳴エネルギー構想インデックス
 
+[English Version](RELATED_RESONANCE_ENERGY_SYSTEMS.md)
+
 ## VIRECS・音波発電炉・REIMEI-NOP の相互関係
 
 このページは、マスター / inchacomusho / InchaComisho による共鳴・振動・自然模倣エネルギー系Open Conceptを、マスター知識体系ポータル側から案内するためのインデックスである。

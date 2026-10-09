@@ -1,5 +1,7 @@
 # 著者・ライセンス統一記録
 
+[English Version](AUTHOR_LICENSE_STANDARDIZATION_RECORD.md)
+
 ## Author and License Standardization Record
 
 この文書は、InchaComisho 関連リポジトリ群に対して実施した、著者表記およびライセンス表記の統一作業を記録するものである。
