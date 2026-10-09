@@ -1,5 +1,7 @@
 # Related Global Warming Definition Links
 
+[日本語版はこちら / Japanese version](RELATED_GLOBAL_WARMING_DEFINITION_LINKS_ja.md)
+
 ## 温暖化因果構造・完全解決策 定義リンク
 
 This page connects the central definition repository with related climate, cooling credit, and civilization framework repositories.
