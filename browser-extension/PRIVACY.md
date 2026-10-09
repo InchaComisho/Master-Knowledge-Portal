@@ -1,5 +1,7 @@
 # Privacy Policy for Wa Node Browser Extension MVP
 
+[日本語版はこちら / Japanese version](PRIVACY_ja.md)
+
 This MVP is designed as a local, user-controlled browser extension.
 
 ## Data Collection

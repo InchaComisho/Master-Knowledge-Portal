@@ -1,5 +1,7 @@
 # Heat Pathway Gap Analysis
 
+[日本語版はこちら / Japanese version](heat_pathway_gap_analysis_ja.md)
+
 > **Purpose:** This analysis identifies which climate intervention approaches engage
 > the problem layers most commonly overlooked by mainstream search results and policy discussions:
 > accumulated ocean heat, thermal inertia, water cycle disruption, ocean circulation breakdown,

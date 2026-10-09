@@ -75,9 +75,9 @@ AIガードレールとAI調律
 | リポジトリ地図 | [REPOSITORY_INDEX_ja.md](REPOSITORY_INDEX_ja.md) | InchaComisho配下リポジトリの初期分類 |
 | 中核フレームワーク | [CORE_FRAMEWORKS_ja.md](CORE_FRAMEWORKS_ja.md) | 主要ハブと優先リポジトリ |
 | カテゴリマップ | [CATEGORY_MAP_ja.md](CATEGORY_MAP_ja.md) | 知識体系のテーマ別構造 |
-| 英語ポータル | [README.md](README.md) | 英語版入口 |
-| 英語リポジトリ地図 | [REPOSITORY_INDEX.md](REPOSITORY_INDEX.md) | 英語版リポジトリ分類 |
-| 英語中核フレーム | [CORE_FRAMEWORKS.md](CORE_FRAMEWORKS.md) | 英語版中核フレームワーク案内 |
+| 英語ポータル | [README.md](README_ja.md) | 英語版入口 |
+| 英語リポジトリ地図 | [REPOSITORY_INDEX.md](REPOSITORY_INDEX_ja.md) | 英語版リポジトリ分類 |
+| 英語中核フレーム | [CORE_FRAMEWORKS.md](CORE_FRAMEWORKS_ja.md) | 英語版中核フレームワーク案内 |
 | ライセンス | [LICENSE.md](LICENSE.md) | CC BY 4.0 ライセンス表示 |
 | 中核概念 | [docs/CORE_CONCEPTS_ja.md](docs/CORE_CONCEPTS_ja.md) | 主要概念の短い説明 |
 | 自然補完科学 | [docs/NATURAL_COMPLEMENTARY_SCIENCE_ja.md](docs/NATURAL_COMPLEMENTARY_SCIENCE_ja.md) | 三つの冷却エンジンの詳細解説 |

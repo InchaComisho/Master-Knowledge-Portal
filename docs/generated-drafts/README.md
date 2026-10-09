@@ -1,5 +1,7 @@
 # AI-Assisted Supplementary Drafts
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 This directory contains AI-assisted supplementary drafts generated from related public materials.
 
 These documents are **not** the canonical definitions. Canonical definitions remain in each official README and primary framework document.
